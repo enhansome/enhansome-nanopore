@@ -1026,7 +1026,7 @@
             "last_commit": "2026-07-10T08:56:45Z",
             "owner": "lbcb-sci",
             "repo": "herro",
-            "stars": 259
+            "stars": 260
           }
         }
       ],
@@ -1341,7 +1341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:14:58.386Z",
+    "last_updated": "2026-08-13T09:49:54.924Z",
     "original_repository": "GoekeLab/awesome-nanopore",
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
     "enhanced_repository": "enhansome/enhansome-nanopore",

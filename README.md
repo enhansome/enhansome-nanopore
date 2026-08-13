@@ -157,7 +157,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 #### Polishing, Error correction
 
 * [Medaka](https://github.com/nanoporetech/medaka) ⭐ 520 | 🐛 31 | 🌐 Python | 📅 2026-05-20 - \[Python] - ONT's official polisher
-* [Herro](https://github.com/lbcb-sci/herro) ⭐ 259 | 🐛 49 | 🌐 Rust | 📅 2026-07-10 - \[Rust] - [Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads](https://www.nature.com/articles/s41586-026-10563-y)
+* [Herro](https://github.com/lbcb-sci/herro) ⭐ 260 | 🐛 49 | 🌐 Rust | 📅 2026-07-10 - \[Rust] - [Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads](https://www.nature.com/articles/s41586-026-10563-y)
 
 ### Transcriptomics
 
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 495,055 | 🐛 100 | 📅 2026-06-30, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 495,055 | 🐛 100 | 📅 2026-06-30.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 495,167 | 🐛 100 | 📅 2026-06-30, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 495,167 | 🐛 100 | 📅 2026-06-30.
 
 ## Contact
 
