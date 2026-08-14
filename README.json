@@ -24,7 +24,7 @@
             "last_commit": "2026-07-30T14:12:05Z",
             "owner": "nanoporetech",
             "repo": "dorado",
-            "stars": 858
+            "stars": 860
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-05-19T22:40:40Z",
             "owner": "lh3",
             "repo": "minimap2",
-            "stars": 2231
+            "stars": 2232
           }
         },
         {
@@ -653,7 +653,7 @@
             "last_commit": "2026-07-30T14:12:05Z",
             "owner": "nanoporetech",
             "repo": "dorado",
-            "stars": 858
+            "stars": 860
           }
         },
         {
@@ -975,7 +975,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T03:24:18Z",
+            "last_commit": "2026-08-14T04:35:35Z",
             "owner": "rrwick",
             "repo": "Autocycler",
             "stars": 236
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-03-13T03:28:59Z",
             "owner": "BirolLab",
             "repo": "RNA-Bloom",
-            "stars": 110
+            "stars": 111
           }
         },
         {
@@ -1341,7 +1341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:49:54.924Z",
+    "last_updated": "2026-08-14T09:46:01.882Z",
     "original_repository": "GoekeLab/awesome-nanopore",
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
     "enhanced_repository": "enhansome/enhansome-nanopore",
