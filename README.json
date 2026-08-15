@@ -182,7 +182,7 @@
             "last_commit": "2026-05-19T22:40:40Z",
             "owner": "lh3",
             "repo": "minimap2",
-            "stars": 2232
+            "stars": 2233
           }
         },
         {
@@ -1076,7 +1076,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T14:46:24Z",
+            "last_commit": "2026-08-15T08:33:14Z",
             "owner": "ablab",
             "repo": "IsoQuant",
             "stars": 234
@@ -1341,7 +1341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:46:01.882Z",
+    "last_updated": "2026-08-15T09:11:23.436Z",
     "original_repository": "GoekeLab/awesome-nanopore",
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
     "enhanced_repository": "enhansome/enhansome-nanopore",
