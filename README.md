@@ -89,7 +89,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 #### Raw signal data manipulation, conversion, visualisation, etc.
 
-* [Squigualiser](https://github.com/hiruna72/squigualiser) ⭐ 130 | 🐛 4 | 🌐 Python | 📅 2026-06-11 - \[Python] - [Interactive visualization of nanopore sequencing signal data with Squigualiser](doi.org/10.1093/bioinformatics/btae501)
+* [Squigualiser](https://github.com/hiruna72/squigualiser) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2026-06-11 - \[Python] - [Interactive visualization of nanopore sequencing signal data with Squigualiser](doi.org/10.1093/bioinformatics/btae501)
 * [SquiggleKit SquigglePlot](https://github.com/Psy-Fer/SquiggleKit) ⭐ 129 | 🐛 22 | 🌐 Python | 📅 2024-02-16 - \[Python] - [SquiggleKit: a toolkit for manipulating nanopore signal data](https://academic.oup.com/bioinformatics/article/35/24/5372/5537108)
 * [slow5tools](https://github.com/hasindu2008/slow5tools) ⭐ 106 | 🐛 0 | 🌐 C | 📅 2026-01-28 - \[C/C++] - [Toolkit for converting (FAST5 <-> SLOW5), compressing, viewing, indexing and manipulating data in SLOW5 format](https://hasindu2008.github.io/slow5tools/)
 * [slow5lib](https://github.com/hasindu2008/slow5lib) ⭐ 49 | 🐛 4 | 🌐 C | 📅 2026-06-20 - \[C] - [Fast nanopore sequencing data analysis with SLOW5
@@ -150,7 +150,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 #### Genome Assembly
 
 * [Flye](https://github.com/fenderglass/Flye) ⭐ 948 | 🐛 18 | 🌐 C | 📅 2026-04-03 - \[C++] - Single molecule sequence assembler with good polishing capabilities
-* [Verkko](https://github.com/marbl/verkko) ⭐ 409 | 🐛 19 | 🌐 Python | 📅 2026-08-04 - \[Python] - hybrid genome assembly pipeline developed for telomere-to-telomere assembly of accurate long reads (PacBio HiFi, Oxford Nanopore Duplex, HERRO or Hifiasm corrected Oxford Nanopore Simplex) and Oxford Nanopore ultra-long reads. [Telomere-to-telomere assembly of diploid chromosomes with Verkko](https://www.nature.com/articles/s41587-023-01662-6)
+* [Verkko](https://github.com/marbl/verkko) ⭐ 409 | 🐛 20 | 🌐 Python | 📅 2026-08-04 - \[Python] - hybrid genome assembly pipeline developed for telomere-to-telomere assembly of accurate long reads (PacBio HiFi, Oxford Nanopore Duplex, HERRO or Hifiasm corrected Oxford Nanopore Simplex) and Oxford Nanopore ultra-long reads. [Telomere-to-telomere assembly of diploid chromosomes with Verkko](https://www.nature.com/articles/s41587-023-01662-6)
 * [Autocycler](https://github.com/rrwick/Autocycler) ⭐ 236 | 🐛 0 | 🌐 Rust | 📅 2026-08-14 - \[Rust] - [Autocycler: long-read consensus assembly for bacterial genomes](https://academic.oup.com/bioinformatics/article/41/9/btaf474/8242761)
 * [Shasta](https://github.com/paoloshasta/shasta) ⭐ 89 | 🐛 0 | 🌐 C++ | 📅 2026-06-29 - \[C] - Very fast and capable nanopore assembler
 
@@ -163,7 +163,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 #### Transcript discovery and quantification
 
-* [FLAIR](https://github.com/BrooksLabUCSC/FLAIR) ⭐ 255 | 🐛 148 | 🌐 Python | 📅 2026-08-11 - \[Python] - [Full-Length Alternative Isoform analysis of RNA](https://www.nature.com/articles/s41467-020-15171-6)
+* [FLAIR](https://github.com/BrooksLabUCSC/FLAIR) ⭐ 255 | 🐛 148 | 🌐 Python | 📅 2026-08-15 - \[Python] - [Full-Length Alternative Isoform analysis of RNA](https://www.nature.com/articles/s41467-020-15171-6)
 * [bambu](https://github.com/GoekeLab/bambu) ⭐ 253 | 🐛 55 | 🌐 R | 📅 2026-08-11 - \[R] - [Context-Aware Transcript Quantification from Long Read RNA-Seq data with Bambu](https://rdcu.be/deluQ)
 * [IsoQuant](https://github.com/ablab/IsoQuant) ⭐ 234 | 🐛 17 | 🌐 Python | 📅 2026-08-15 - \[Python] - [Accurate isoform discovery with IsoQuant using long reads](https://www.nature.com/articles/s41587-022-01565-y)
 * [TALON](https://github.com/mortazavilab/TALON) ⭐ 162 | 🐛 33 | 🌐 Python | 📅 2024-01-25 - \[Python] - [Python package for identifying and quantifying known and novel genes/isoforms in long-read transcriptome data sets](https://www.biorxiv.org/content/10.1101/672931v2) **Run before** [TranscriptClean](https://github.com/mortazavilab/TranscriptClean) ⭐ 72 | 🐛 14 | 🌐 Python | 📅 2024-01-31
@@ -190,7 +190,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 #### Reads simulation
 
-* [NanoSim](https://github.com/bcgsc/NanoSim) ⭐ 308 | 🐛 39 | 🌐 Python | 📅 2026-03-12 - \[Python] - [NanoSim: nanopore sequence read simulator based on statistical characterization.](https://doi.org/10.1093/gigascience/gix010), [Trans-NanoSim characterizes and simulates nanopore RNA-sequencing data.](https://academic.oup.com/gigascience/article/9/6/giaa061/5855462?login=true), [Characterization and simulation of metagenomic nanopore sequencing data with Meta-NanoSim.](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad013/7080817?login=true)
+* [NanoSim](https://github.com/bcgsc/NanoSim) ⭐ 309 | 🐛 39 | 🌐 Python | 📅 2026-03-12 - \[Python] - [NanoSim: nanopore sequence read simulator based on statistical characterization.](https://doi.org/10.1093/gigascience/gix010), [Trans-NanoSim characterizes and simulates nanopore RNA-sequencing data.](https://academic.oup.com/gigascience/article/9/6/giaa061/5855462?login=true), [Characterization and simulation of metagenomic nanopore sequencing data with Meta-NanoSim.](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad013/7080817?login=true)
 
 #### Coverage simulation
 
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 495,910 | 🐛 100 | 📅 2026-06-30, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 495,910 | 🐛 100 | 📅 2026-06-30.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 496,291 | 🐛 100 | 📅 2026-06-30, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 496,291 | 🐛 100 | 📅 2026-06-30.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
