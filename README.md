@@ -59,11 +59,11 @@ List of software packages for Nanopore sequencing data analysis, including basec
 ### QC, preprocessing
 
 * [NanoPlot](https://github.com/wdecoster/nanoplot) ⭐ 557 | 🐛 17 | 🌐 HTML | 📅 2026-08-03 - \[HTML/Python] - [QC plotting tool for Nanopore reads](https://academic.oup.com/bioinformatics/article/39/5/btad311/7160911?login=false)
-* [Cramino](https://github.com/wdecoster/cramino) ⭐ 188 | 🐛 3 | 🌐 Rust | 📅 2026-08-03 - \[Rust] - A tool for quick quality assessment of cram and bam files, intended for long read sequencing
+* [Cramino](https://github.com/wdecoster/cramino) ⭐ 188 | 🐛 3 | 🌐 Rust | 📅 2026-08-17 - \[Rust] - A tool for quick quality assessment of cram and bam files, intended for long read sequencing
 
 ### Alignment
 
-* [minimap2](https://github.com/lh3/minimap2) ⭐ 2,233 | 🐛 74 | 🌐 C | 📅 2026-05-19 - \[C] - [Minimap2: pairwise alignment for nucleotide sequences](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
+* [minimap2](https://github.com/lh3/minimap2) ⭐ 2,235 | 🐛 74 | 🌐 C | 📅 2026-05-19 - \[C] - [Minimap2: pairwise alignment for nucleotide sequences](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
 * [Winnowmap](https://github.com/marbl/winnowmap) ⭐ 329 | 🐛 36 | 🌐 C | 📅 2025-12-16 - \[C] - [Weighted minimizer sampling improves long read mapping](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i111/5870473)
 
 ### Signal analysis
@@ -200,7 +200,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 * [nf-core/nanoseq](https://github.com/nf-core/nanoseq) ⭐ 228 | 🐛 61 | 🌐 Nextflow | 📅 2026-07-27 - \[Nextflow] - [A systematic benchmark of Nanopore long read RNA sequencing for transcript level analysis in human cell lines](https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1) (Not yet updated for ONT's latest chemistry)
 * [MOP2](https://github.com/biocorecrg/MOP2) ⭐ 23 | 🐛 21 | 🌐 Nextflow | 📅 2024-12-04 - \[Nextflow] - [MasterOfPores: A Workflow for the Analysis of Oxford Nanopore Direct RNA Sequencing Datasets](https://www.frontiersin.org/articles/10.3389/fgene.2020.00211/full)
-* [bambu-pipe](https://github.com/GoekeLab/bambu-pipe) ⭐ 23 | 🐛 5 | 🌐 Nextflow | 📅 2026-08-05 - \[Nextflow] - [Isoform-level discovery, quantification and fusion analysis from single-cell and spatial long-read RNA-seq data with Bambu-Clump](https://www.biorxiv.org/content/10.1101/2024.12.30.630828v1.full)
+* [bambu-pipe](https://github.com/GoekeLab/bambu-pipe) ⭐ 23 | 🐛 5 | 🌐 Nextflow | 📅 2026-08-17 - \[Nextflow] - [Isoform-level discovery, quantification and fusion analysis from single-cell and spatial long-read RNA-seq data with Bambu-Clump](https://www.biorxiv.org/content/10.1101/2024.12.30.630828v1.full)
 
 ### Metagenomics
 
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 496,291 | 🐛 100 | 📅 2026-06-30, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 496,291 | 🐛 100 | 📅 2026-06-30.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 496,720 | 🐛 100 | 📅 2026-06-30, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 496,720 | 🐛 100 | 📅 2026-06-30.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
