@@ -108,7 +108,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 #### DNA modification analysis
 
 * [nanopolish call-methylation](https://github.com/jts/nanopolish) ⭐ 600 | 🐛 94 | 🌐 C++ | 📅 2023-08-05 - \[C++] - [Detecting DNA cytosine methylation using nanopore sequencing](https://www.nature.com/articles/nmeth.4184).
-* [modkit](https://github.com/nanoporetech/modkit) ⭐ 272 | 🐛 318 | 🌐 Rust | 📅 2026-07-14 - \[Rust] - Extract modified base calls from dorado BAM output to bedMethyl format, also calculate DMRs
+* [modkit](https://github.com/nanoporetech/modkit) ⭐ 272 | 🐛 319 | 🌐 Rust | 📅 2026-07-14 - \[Rust] - Extract modified base calls from dorado BAM output to bedMethyl format, also calculate DMRs
 * [f5c call-methylation](https://github.com/hasindu2008/f5c) ⭐ 166 | 🐛 3 | 🌐 C | 📅 2026-08-19 - \[C/C++/CUDA] - [GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03697-x)
 * [DeepSignals](https://github.com/bioinfomaticsCSU/deepsignal) ⭐ 120 | 🐛 13 | 🌐 Python | 📅 2023-06-04 - \[Python] - [DeepSignal: detecting DNA methylation state from Nanopore sequencing reads using deep-learning](https://academic.oup.com/bioinformatics/article/35/22/4586/5474907).
 * [signalAlign](https://github.com/ArtRand/signalAlign) ⭐ 47 | 🐛 15 | 🌐 C | 📅 2017-04-10 - \[C] - [Mapping DNA methylation with high-throughput nanopore sequencing](https://www.nature.com/articles/nmeth.4189).
@@ -167,7 +167,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 * [bambu](https://github.com/GoekeLab/bambu) ⭐ 254 | 🐛 56 | 🌐 R | 📅 2026-08-11 - \[R] - [Context-Aware Transcript Quantification from Long Read RNA-Seq data with Bambu](https://rdcu.be/deluQ)
 * [IsoQuant](https://github.com/ablab/IsoQuant) ⭐ 234 | 🐛 16 | 🌐 Python | 📅 2026-08-19 - \[Python] - [Accurate isoform discovery with IsoQuant using long reads](https://www.nature.com/articles/s41587-022-01565-y)
 * [TALON](https://github.com/mortazavilab/TALON) ⭐ 162 | 🐛 33 | 🌐 Python | 📅 2024-01-25 - \[Python] - [Python package for identifying and quantifying known and novel genes/isoforms in long-read transcriptome data sets](https://www.biorxiv.org/content/10.1101/672931v2) **Run before** [TranscriptClean](https://github.com/mortazavilab/TranscriptClean) ⭐ 72 | 🐛 14 | 🌐 Python | 📅 2024-01-31
-* [RNAbloom2](https://github.com/bcgsc/RNA-Bloom) ⭐ 111 | 🐛 12 | 🌐 Java | 📅 2026-03-13 - \[Java] - [Reference-free assembly of long-read transcriptome sequencing data with RNA-Bloom2](https://www.nature.com/articles/s41467-023-38553-y)
+* [RNAbloom2](https://github.com/bcgsc/RNA-Bloom) ⭐ 112 | 🐛 12 | 🌐 Java | 📅 2026-03-13 - \[Java] - [Reference-free assembly of long-read transcriptome sequencing data with RNA-Bloom2](https://www.nature.com/articles/s41467-023-38553-y)
 * [RATTLE](https://github.com/comprna/RATTLE/) ⭐ 63 | 🐛 26 | 🌐 C++ | 📅 2024-02-15 - \[C++] - [RATTLE: reference-free reconstruction and quantification of transcriptomes from Nanopore sequencing](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02715-w)
 * [NanoSplicer](https://github.com/shimlab/NanoSplicer) ⭐ 31 | 🐛 8 | 🌐 Python | 📅 2024-11-28 - \[Python] - [Identification of splice junctions from nanopore sequencing using raw signal squiggles](https://academic.oup.com/bioinformatics/article/38/15/3741/6594111)
 * [trackcluster](https://github.com/runsheng/trackcluster) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-07-24 -\[Python] - [trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads](https://genome.cshlp.org/content/30/2/287.short)
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 497,579 | 🐛 102 | 📅 2026-08-18, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 497,579 | 🐛 102 | 📅 2026-08-18.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18.
 
 ## Contact
 

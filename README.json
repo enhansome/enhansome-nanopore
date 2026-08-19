@@ -1195,7 +1195,7 @@
                     "last_commit": "2026-03-13T03:28:59Z",
                     "owner": "BirolLab",
                     "repo": "RNA-Bloom",
-                    "stars": 111
+                    "stars": 112
                   }
                 },
                 {
@@ -1434,8 +1434,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:18:01.984Z",
+    "last_updated": "2026-08-19T12:44:19.666Z",
     "original_repository": "GoekeLab/awesome-nanopore",
+    "original_repository_id": 397037208,
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
     "enhanced_repository": "enhansome/enhansome-nanopore",
     "enhanced_repository_description": null,
