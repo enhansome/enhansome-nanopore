@@ -515,7 +515,7 @@
                 "last_commit": "2026-07-20T10:12:02Z",
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 674
+                "stars": 675
               }
             },
             {
@@ -1162,10 +1162,10 @@
                     "archived": false,
                     "id": 256025879,
                     "language": "Python",
-                    "last_commit": "2026-08-19T08:39:34Z",
+                    "last_commit": "2026-08-19T19:29:17Z",
                     "owner": "ablab",
                     "repo": "IsoQuant",
-                    "stars": 234
+                    "stars": 235
                   }
                 },
                 {
@@ -1342,7 +1342,7 @@
             "archived": false,
             "id": 207292537,
             "language": "Nextflow",
-            "last_commit": "2026-08-19T01:43:12Z",
+            "last_commit": "2026-08-19T20:56:08Z",
             "owner": "nf-core",
             "repo": "nanoseq",
             "stars": 228
@@ -1372,7 +1372,7 @@
             "archived": false,
             "id": 743357700,
             "language": "Nextflow",
-            "last_commit": "2026-08-18T02:17:23Z",
+            "last_commit": "2026-08-20T06:41:18Z",
             "owner": "GoekeLab",
             "repo": "bambu-pipe",
             "stars": 23
@@ -1434,7 +1434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:19.666Z",
+    "last_updated": "2026-08-20T09:19:21.545Z",
     "original_repository": "GoekeLab/awesome-nanopore",
     "original_repository_id": 397037208,
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
