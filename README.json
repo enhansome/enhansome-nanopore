@@ -358,7 +358,7 @@
                     "archived": false,
                     "id": 141697436,
                     "language": "C",
-                    "last_commit": "2026-08-21T05:30:42Z",
+                    "last_commit": "2026-08-21T12:21:57Z",
                     "owner": "hasindu2008",
                     "repo": "f5c",
                     "stars": 166
@@ -373,7 +373,7 @@
                     "archived": false,
                     "id": 141697436,
                     "language": "C",
-                    "last_commit": "2026-08-21T05:30:42Z",
+                    "last_commit": "2026-08-21T12:21:57Z",
                     "owner": "hasindu2008",
                     "repo": "f5c",
                     "stars": 166
@@ -596,7 +596,7 @@
                     "archived": false,
                     "id": 141697436,
                     "language": "C",
-                    "last_commit": "2026-08-21T05:30:42Z",
+                    "last_commit": "2026-08-21T12:21:57Z",
                     "owner": "hasindu2008",
                     "repo": "f5c",
                     "stars": 166
@@ -1150,7 +1150,7 @@
                     "last_commit": "2026-08-11T12:13:24Z",
                     "owner": "GoekeLab",
                     "repo": "bambu",
-                    "stars": 254
+                    "stars": 255
                   }
                 },
                 {
@@ -1434,7 +1434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:21:08.501Z",
+    "last_updated": "2026-08-22T09:12:30.583Z",
     "original_repository": "GoekeLab/awesome-nanopore",
     "original_repository_id": 397037208,
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
