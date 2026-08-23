@@ -63,8 +63,8 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ### Alignment
 
-* [minimap2](https://github.com/lh3/minimap2) ⭐ 2,236 | 🐛 74 | 🌐 C | 📅 2026-05-19 - \[C] - [Minimap2: pairwise alignment for nucleotide sequences](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
-* [Winnowmap](https://github.com/marbl/winnowmap) ⭐ 329 | 🐛 36 | 🌐 C | 📅 2025-12-16 - \[C] - [Weighted minimizer sampling improves long read mapping](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i111/5870473)
+* [minimap2](https://github.com/lh3/minimap2) ⭐ 2,237 | 🐛 74 | 🌐 C | 📅 2026-05-19 - \[C] - [Minimap2: pairwise alignment for nucleotide sequences](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
+* [Winnowmap](https://github.com/marbl/winnowmap) ⭐ 330 | 🐛 36 | 🌐 C | 📅 2025-12-16 - \[C] - [Weighted minimizer sampling improves long read mapping](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i111/5870473)
 
 ### Signal analysis
 
@@ -110,7 +110,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 * [nanopolish call-methylation](https://github.com/jts/nanopolish) ⭐ 600 | 🐛 94 | 🌐 C++ | 📅 2023-08-05 - \[C++] - [Detecting DNA cytosine methylation using nanopore sequencing](https://www.nature.com/articles/nmeth.4184).
 * [modkit](https://github.com/nanoporetech/modkit) ⭐ 272 | 🐛 320 | 🌐 Rust | 📅 2026-07-14 - \[Rust] - Extract modified base calls from dorado BAM output to bedMethyl format, also calculate DMRs
 * [f5c call-methylation](https://github.com/hasindu2008/f5c) ⭐ 166 | 🐛 1 | 🌐 C | 📅 2026-08-21 - \[C/C++/CUDA] - [GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03697-x)
-* [DeepSignals](https://github.com/bioinfomaticsCSU/deepsignal) ⭐ 120 | 🐛 13 | 🌐 Python | 📅 2023-06-04 - \[Python] - [DeepSignal: detecting DNA methylation state from Nanopore sequencing reads using deep-learning](https://academic.oup.com/bioinformatics/article/35/22/4586/5474907).
+* [DeepSignals](https://github.com/bioinfomaticsCSU/deepsignal) ⭐ 119 | 🐛 13 | 🌐 Python | 📅 2023-06-04 - \[Python] - [DeepSignal: detecting DNA methylation state from Nanopore sequencing reads using deep-learning](https://academic.oup.com/bioinformatics/article/35/22/4586/5474907).
 * [signalAlign](https://github.com/ArtRand/signalAlign) ⭐ 47 | 🐛 15 | 🌐 C | 📅 2017-04-10 - \[C] - [Mapping DNA methylation with high-throughput nanopore sequencing](https://www.nature.com/articles/nmeth.4189).
 * [mCaller](https://github.com/al-mcintyre/mCaller) ⭐ 47 | 🐛 13 | 🌐 Python | 📅 2021-06-24 - \[Python] - [Single-molecule sequencing detection of N6-methyladenine in microbial reference materials](https://www.nature.com/articles/s41467-019-08289-9).
 * [NanoMod](https://github.com/WGLab/NanoMod) ⭐ 38 | 🐛 12 | 🌐 Python | 📅 2022-02-02 - \[Python] - [NanoMod: a computational tool to detect DNA modifications using Nanopore long-read sequencing data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5372-8).
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 498,772 | 🐛 105 | 📅 2026-08-21, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 498,772 | 🐛 105 | 📅 2026-08-21.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 499,075 | 🐛 106 | 📅 2026-08-21, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 499,075 | 🐛 106 | 📅 2026-08-21.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
