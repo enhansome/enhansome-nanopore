@@ -19,7 +19,7 @@
                     "last_commit": "2026-07-30T14:12:05Z",
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 860
+                    "stars": 862
                   }
                 },
                 {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-05-19T22:40:40Z",
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2237
+                "stars": 2239
               }
             },
             {
@@ -530,7 +530,7 @@
                 "last_commit": "2026-07-04T14:50:20Z",
                 "owner": "whatshap",
                 "repo": "whatshap",
-                "stars": 424
+                "stars": 425
               }
             },
             {
@@ -698,7 +698,7 @@
                         "last_commit": "2026-07-30T14:12:05Z",
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 860
+                        "stars": 862
                       }
                     },
                     {
@@ -1039,7 +1039,7 @@
                     "last_commit": "2026-08-04T13:27:24Z",
                     "owner": "marbl",
                     "repo": "verkko",
-                    "stars": 410
+                    "stars": 411
                   }
                 },
                 {
@@ -1434,7 +1434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:12:19.414Z",
+    "last_updated": "2026-08-24T09:31:52.799Z",
     "original_repository": "GoekeLab/awesome-nanopore",
     "original_repository_id": 397037208,
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
