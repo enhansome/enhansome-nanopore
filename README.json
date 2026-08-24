@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-18T07:27:38Z",
                 "owner": "wdecoster",
                 "repo": "NanoPlot",
-                "stars": 559
+                "stars": 560
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-05-19T22:40:40Z",
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2239
+                "stars": 2240
               }
             },
             {
@@ -470,7 +470,7 @@
                     "archived": false,
                     "id": 371588757,
                     "language": "C",
-                    "last_commit": "2026-08-19T07:05:20Z",
+                    "last_commit": "2026-08-24T13:29:34Z",
                     "owner": "hasindu2008",
                     "repo": "slow5tools",
                     "stars": 106
@@ -485,7 +485,7 @@
                     "archived": false,
                     "id": 287184874,
                     "language": "C",
-                    "last_commit": "2026-08-18T04:57:41Z",
+                    "last_commit": "2026-08-24T11:33:50Z",
                     "owner": "hasindu2008",
                     "repo": "slow5lib",
                     "stars": 49
@@ -1162,7 +1162,7 @@
                     "archived": false,
                     "id": 256025879,
                     "language": "Python",
-                    "last_commit": "2026-08-20T15:59:03Z",
+                    "last_commit": "2026-08-24T13:32:53Z",
                     "owner": "ablab",
                     "repo": "IsoQuant",
                     "stars": 235
@@ -1321,11 +1321,84 @@
               "description": null,
               "node_type": "group",
               "title": "RNA structure prediction"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BLAZE",
+                  "description": "[Python] - Identification of cell barcodes from long-read single-cell RNA-seq with BLAZE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 473844049,
+                    "language": "Python",
+                    "last_commit": "2025-05-30T05:30:09Z",
+                    "owner": "shimlab",
+                    "repo": "BLAZE",
+                    "stars": 69
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Single-cell analysis"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Transcriptomics"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NanoSim",
+                  "description": "[Python] - NanoSim: nanopore sequence read simulator based on statistical characterization., Trans-NanoSim characterizes and simulates nanopore RNA-sequencing data., Characterization and simulation of metagenomic nanopore sequencing data with Meta-NanoSim.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45647491,
+                    "language": "Python",
+                    "last_commit": "2026-03-12T19:53:24Z",
+                    "owner": "BirolLab",
+                    "repo": "NanoSim",
+                    "stars": 311
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Reads simulation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "esloco",
+                  "description": "[Python] - esloco: simulation-based estimation of local coverage in long-read DNA sequencing",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 956026655,
+                    "language": "Python",
+                    "last_commit": "2026-01-19T08:54:31Z",
+                    "owner": "aweich",
+                    "repo": "esloco",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Coverage simulation"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Simulation"
         }
       ],
       "title": "Software packages"
@@ -1377,6 +1450,28 @@
             "repo": "bambu-pipe",
             "stars": 23
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nf-Wochenende",
+              "description": "[Nextflow, Python] - Wochenende - modular and flexible alignment-based shotgun metagenome analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495350834,
+                "language": "Python",
+                "last_commit": "2026-03-04T08:33:27Z",
+                "owner": "MHH-RCUG",
+                "repo": "nf_wochenende",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Metagenomics"
         }
       ],
       "title": "Pipelines"
@@ -1434,7 +1529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:31:52.799Z",
+    "last_updated": "2026-08-24T14:29:52.919Z",
     "original_repository": "GoekeLab/awesome-nanopore",
     "original_repository_id": 397037208,
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
