@@ -1162,7 +1162,7 @@
                     "archived": false,
                     "id": 256025879,
                     "language": "Python",
-                    "last_commit": "2026-08-24T23:10:55Z",
+                    "last_commit": "2026-08-25T08:16:54Z",
                     "owner": "ablab",
                     "repo": "IsoQuant",
                     "stars": 235
@@ -1445,7 +1445,7 @@
             "archived": false,
             "id": 743357700,
             "language": "Nextflow",
-            "last_commit": "2026-08-21T02:11:50Z",
+            "last_commit": "2026-08-25T06:34:24Z",
             "owner": "GoekeLab",
             "repo": "bambu-pipe",
             "stars": 23
@@ -1529,7 +1529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:37.092Z",
+    "last_updated": "2026-08-25T09:20:46.084Z",
     "original_repository": "GoekeLab/awesome-nanopore",
     "original_repository_id": 397037208,
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
