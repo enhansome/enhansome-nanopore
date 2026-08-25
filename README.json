@@ -19,7 +19,7 @@
                     "last_commit": "2026-07-30T14:12:05Z",
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 862
+                    "stars": 863
                   }
                 },
                 {
@@ -698,7 +698,7 @@
                         "last_commit": "2026-07-30T14:12:05Z",
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 862
+                        "stars": 863
                       }
                     },
                     {
@@ -762,7 +762,7 @@
                         "archived": false,
                         "id": 232050042,
                         "language": "Python",
-                        "last_commit": "2026-08-05T08:02:48Z",
+                        "last_commit": "2026-08-25T03:33:28Z",
                         "owner": "GoekeLab",
                         "repo": "xpore",
                         "stars": 168
@@ -1162,7 +1162,7 @@
                     "archived": false,
                     "id": 256025879,
                     "language": "Python",
-                    "last_commit": "2026-08-24T13:32:53Z",
+                    "last_commit": "2026-08-24T23:10:55Z",
                     "owner": "ablab",
                     "repo": "IsoQuant",
                     "stars": 235
@@ -1529,7 +1529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:52.919Z",
+    "last_updated": "2026-08-25T06:23:37.092Z",
     "original_repository": "GoekeLab/awesome-nanopore",
     "original_repository_id": 397037208,
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
