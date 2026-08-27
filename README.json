@@ -807,7 +807,7 @@
                         "archived": false,
                         "id": 143604261,
                         "language": "Python",
-                        "last_commit": "2026-06-20T03:51:25Z",
+                        "last_commit": "2026-08-27T14:27:03Z",
                         "owner": "tleonardi",
                         "repo": "nanocompore",
                         "stars": 88
@@ -1054,7 +1054,7 @@
                     "last_commit": "2026-08-14T04:35:35Z",
                     "owner": "rrwick",
                     "repo": "Autocycler",
-                    "stars": 236
+                    "stars": 237
                   }
                 },
                 {
@@ -1106,7 +1106,7 @@
                     "last_commit": "2026-07-10T08:56:45Z",
                     "owner": "lbcb-sci",
                     "repo": "herro",
-                    "stars": 262
+                    "stars": 263
                   }
                 }
               ],
@@ -1529,7 +1529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:03.202Z",
+    "last_updated": "2026-08-27T19:16:41.936Z",
     "original_repository_info": {
       "archived": false,
       "id": 397037208,
