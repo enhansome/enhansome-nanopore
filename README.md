@@ -156,14 +156,14 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 #### Polishing, Error correction
 
-* [Medaka](https://github.com/nanoporetech/medaka) ⭐ 522 | 🐛 31 | 🌐 Python | 📅 2026-05-20 - \[Python] - ONT's official polisher
+* [Medaka](https://github.com/nanoporetech/medaka) ⭐ 523 | 🐛 31 | 🌐 Python | 📅 2026-05-20 - \[Python] - ONT's official polisher
 * [Herro](https://github.com/lbcb-sci/herro) ⭐ 263 | 🐛 49 | 🌐 Rust | 📅 2026-07-10 - \[Rust] - [Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads](https://www.nature.com/articles/s41586-026-10563-y)
 
 ### Transcriptomics
 
 #### Transcript discovery and quantification
 
-* [FLAIR](https://github.com/BrooksLabUCSC/FLAIR) ⭐ 256 | 🐛 143 | 🌐 Python | 📅 2026-08-20 - \[Python] - [Full-Length Alternative Isoform analysis of RNA](https://www.nature.com/articles/s41467-020-15171-6)
+* [FLAIR](https://github.com/BrooksLabUCSC/FLAIR) ⭐ 256 | 🐛 143 | 🌐 Python | 📅 2026-08-29 - \[Python] - [Full-Length Alternative Isoform analysis of RNA](https://www.nature.com/articles/s41467-020-15171-6)
 * [bambu](https://github.com/GoekeLab/bambu) ⭐ 255 | 🐛 56 | 🌐 R | 📅 2026-08-11 - \[R] - [Context-Aware Transcript Quantification from Long Read RNA-Seq data with Bambu](https://rdcu.be/deluQ)
 * [IsoQuant](https://github.com/ablab/IsoQuant) ⭐ 237 | 🐛 18 | 🌐 Python | 📅 2026-08-26 - \[Python] - [Accurate isoform discovery with IsoQuant using long reads](https://www.nature.com/articles/s41587-022-01565-y)
 * [TALON](https://github.com/mortazavilab/TALON) ⭐ 162 | 🐛 33 | 🌐 Python | 📅 2024-01-25 - \[Python] - [Python package for identifying and quantifying known and novel genes/isoforms in long-read transcriptome data sets](https://www.biorxiv.org/content/10.1101/672931v2) **Run before** [TranscriptClean](https://github.com/mortazavilab/TranscriptClean) ⭐ 72 | 🐛 14 | 🌐 Python | 📅 2024-01-31
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 500,892 | 🐛 105 | 📅 2026-08-21, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 500,892 | 🐛 105 | 📅 2026-08-21.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 501,023 | 🐛 105 | 📅 2026-08-21, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 501,023 | 🐛 105 | 📅 2026-08-21.
 
 ## Contact
 

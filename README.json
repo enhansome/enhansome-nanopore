@@ -1600,7 +1600,7 @@
                     "open_issues": 31,
                     "owner": "nanoporetech",
                     "repo": "medaka",
-                    "stars": 522,
+                    "stars": 523,
                     "topics": [
                       "medaka",
                       "nanopore"
@@ -1655,7 +1655,7 @@
                     "id": 136390187,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-20T15:35:20Z",
+                    "last_commit": "2026-08-29T11:44:18Z",
                     "open_issues": 143,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:46:34.312Z",
+    "last_updated": "2026-08-29T14:01:38.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
