@@ -14,12 +14,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Oxford Nanopore's Basecaller",
+                    "homepage": "https://nanoporetech.com/",
                     "id": 493440634,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T14:07:36Z",
+                    "open_issues": 95,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 866
+                    "stars": 866,
+                    "topics": [
+                      "basecalling",
+                      "genomics",
+                      "libtorch",
+                      "nanopore"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -30,12 +40,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A PyTorch Basecaller for Oxford Nanopore Reads",
+                    "homepage": "https://nanoporetech.com/",
                     "id": 222706260,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-20T10:10:52Z",
+                    "open_issues": 6,
                     "owner": "nanoporetech",
                     "repo": "bonito",
-                    "stars": 436
+                    "stars": 436,
+                    "topics": [
+                      "basecalling",
+                      "nanopore",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -53,12 +72,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A basecaller for Oxford Nanopore Technologies' sequencers",
+                    "homepage": null,
                     "id": 90564807,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-06T21:22:14Z",
+                    "open_issues": 9,
                     "owner": "haotianteng",
                     "repo": "Chiron",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -69,12 +93,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Oxford Nanopore Basecaller",
+                    "homepage": null,
                     "id": 54924971,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2021-09-04T10:36:54Z",
+                    "open_issues": 5,
                     "owner": "mateidavid",
                     "repo": "nanocall",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -85,12 +114,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Error correction and variant calling algorithm for nanopore sequencing",
+                    "homepage": null,
                     "id": 33955184,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2016-04-23T20:39:08Z",
+                    "open_issues": 8,
                     "owner": "tszalay",
                     "repo": "poreseq",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -101,12 +135,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 86626238,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2019-03-26T12:33:13Z",
+                    "open_issues": 4,
                     "owner": "jeammimi",
                     "repo": "deepnano",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -117,12 +156,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 224454076,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-11-28T07:40:11Z",
+                    "open_issues": 2,
                     "owner": "scutbioinformatic",
                     "repo": "causalcall",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -133,12 +177,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Development version of RNN basecaller",
+                    "homepage": null,
                     "id": 69359323,
                     "language": "C++",
+                    "license": "MPL-2.0",
                     "last_commit": "2016-09-27T10:36:35Z",
+                    "open_issues": 0,
                     "owner": "ProgramFiles",
                     "repo": "nanonet",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -161,12 +210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plotting scripts for long read sequencing data",
+                "homepage": "http://nanoplot.bioinf.be",
                 "id": 90007962,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-18T07:27:38Z",
+                "open_issues": 18,
                 "owner": "wdecoster",
                 "repo": "NanoPlot",
-                "stars": 559
+                "stars": 560,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
             },
@@ -177,12 +231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A *fast* tool for BAM/CRAM quality evaluation, intended for long reads",
+                "homepage": null,
                 "id": 533058774,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-17T09:07:00Z",
+                "open_issues": 3,
                 "owner": "wdecoster",
                 "repo": "cramino",
-                "stars": 188
+                "stars": 189,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
             }
@@ -200,12 +259,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A versatile pairwise aligner for genomic and spliced nucleotide sequences",
+                "homepage": "https://lh3.github.io/minimap2",
                 "id": 97612481,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-19T22:40:40Z",
+                "open_issues": 75,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2242
+                "stars": 2242,
+                "topics": [
+                  "bioinformatics",
+                  "genomics",
+                  "sequence-alignment",
+                  "spliced-alignment"
+                ]
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
             },
@@ -216,12 +285,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Long read / genome alignment software",
+                "homepage": null,
                 "id": 239658722,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-16T05:53:28Z",
+                "open_issues": 37,
                 "owner": "marbl",
                 "repo": "Winnowmap",
-                "stars": 330
+                "stars": 330,
+                "topics": [
+                  "genome-analysis",
+                  "nanopore",
+                  "pacbio"
+                ]
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
             }
@@ -241,12 +319,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Raw nanopore signal mapper that enables real-time targeted sequencing",
+                    "homepage": null,
                     "id": 97738232,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2024-03-05T15:22:30Z",
+                    "open_issues": 20,
                     "owner": "skovaka",
                     "repo": "UNCALLED",
-                    "stars": 532
+                    "stars": 532,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -257,12 +340,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CLI tool for flexible and fast adaptive sampling on ONT sequencers",
+                    "homepage": "https://looselab.github.io/readfish/",
                     "id": 220492505,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-25T16:03:32Z",
+                    "open_issues": 16,
                     "owner": "LooseLab",
                     "repo": "readfish",
-                    "stars": 198
+                    "stars": 198,
+                    "topics": [
+                      "adaptive-sampling",
+                      "bioinformatics",
+                      "genomics",
+                      "ont",
+                      "oxford-nanopore",
+                      "sequencing"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -273,12 +368,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GPU-accelerated Dynamic Time Warp (DTW) Barycenter Averaging",
+                    "homepage": null,
                     "id": 202172029,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-24T22:41:33Z",
+                    "open_issues": 3,
                     "owner": "nodrogluap",
                     "repo": "OpenDBA",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -289,12 +389,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A streaming method for mapping nanopore raw signals",
+                    "homepage": null,
                     "id": 242170382,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-11-07T15:36:34Z",
+                    "open_issues": 4,
                     "owner": "haowenz",
                     "repo": "sigmap",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -305,12 +410,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 326563198,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-18T04:14:40Z",
+                    "open_issues": 2,
                     "owner": "welch-lab",
                     "repo": "SquiggleNet",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -321,12 +431,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Continuous Wavelet Dynamic Time Warping for unbalanced global mapping of two signals",
+                    "homepage": null,
                     "id": 108973799,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-01-14T17:54:29Z",
+                    "open_issues": 3,
                     "owner": "realbigws",
                     "repo": "cwDTW",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -337,12 +452,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast signal-level matching for direct RNA nanopore sequencing",
+                    "homepage": null,
                     "id": 425906839,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2022-03-11T21:27:04Z",
+                    "open_issues": 0,
                     "owner": "nodrogluap",
                     "repo": "maxwell",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -360,12 +480,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Signal-level algorithms for MinION data",
+                    "homepage": null,
                     "id": 28145157,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-08-05T15:27:20Z",
+                    "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 600
+                    "stars": 600,
+                    "topics": [
+                      "bioinformatics",
+                      "c-plus-plus",
+                      "epigenetics",
+                      "genome-assembly",
+                      "methylation",
+                      "science"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -376,12 +508,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ultra-fast methylation calling and event alignment tool for nanopore sequencing data (supports CUDA acceleration)",
+                    "homepage": "https://hasindu2008.github.io/f5c/docs/overview",
                     "id": 141697436,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T12:21:57Z",
+                    "open_issues": 1,
                     "owner": "hasindu2008",
                     "repo": "f5c",
-                    "stars": 166
+                    "stars": 166,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -392,12 +529,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ultra-fast methylation calling and event alignment tool for nanopore sequencing data (supports CUDA acceleration)",
+                    "homepage": "https://hasindu2008.github.io/f5c/docs/overview",
                     "id": 141697436,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T12:21:57Z",
+                    "open_issues": 1,
                     "owner": "hasindu2008",
                     "repo": "f5c",
-                    "stars": 166
+                    "stars": 166,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -408,12 +550,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SquiggleKit: A toolkit for manipulating nanopore signal data",
+                    "homepage": null,
                     "id": 158550044,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-16T02:49:47Z",
+                    "open_issues": 22,
                     "owner": "Psy-Fer",
                     "repo": "SquiggleKit",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": [
+                      "bioinformatics",
+                      "nanopore"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -424,12 +574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 608748195,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2025-01-06T17:32:38Z",
+                    "open_issues": 30,
                     "owner": "skovaka",
                     "repo": "uncalled4",
-                    "stars": 85
+                    "stars": 85,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -440,12 +595,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dynamont is a bioinformatics tool for segmenting/resquiggling Oxford Nanopore Technologies (ONT) sequencing signals using dynamic programming and HMM-based approaches. It is designed to align raw nanopore signals to nucleotide sequences and supports DNA and RNA datasets.",
+                    "homepage": null,
                     "id": 608215683,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-20T12:17:40Z",
+                    "open_issues": 1,
                     "owner": "rnajena",
                     "repo": "dynamont",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "nanopore",
+                      "nanopore-sequencing",
+                      "ont",
+                      "resquiggle",
+                      "resquiggling",
+                      "segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -463,12 +630,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualise and analyse nanopore (ONT) raw signals",
+                    "homepage": "https://hiruna72.github.io/squigualiser/",
                     "id": 514480848,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-11T01:26:19Z",
+                    "open_issues": 4,
                     "owner": "hiruna72",
                     "repo": "squigualiser",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -479,12 +651,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SquiggleKit: A toolkit for manipulating nanopore signal data",
+                    "homepage": null,
                     "id": 158550044,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-16T02:49:47Z",
+                    "open_issues": 22,
                     "owner": "Psy-Fer",
                     "repo": "SquiggleKit",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": [
+                      "bioinformatics",
+                      "nanopore"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -495,12 +675,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slow5tools is a toolkit for converting (FAST5 <-> SLOW5), compressing, viewing, indexing and manipulating data in SLOW5 format.",
+                    "homepage": "https://hasindu2008.github.io/slow5tools",
                     "id": 371588757,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T11:02:43Z",
+                    "open_issues": 0,
                     "owner": "hasindu2008",
                     "repo": "slow5tools",
-                    "stars": 106
+                    "stars": 106,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -511,12 +696,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "slow5lib is a software library for reading & writing SLOW5 files.",
+                    "homepage": "https://hasindu2008.github.io/slow5lib",
                     "id": 287184874,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T11:33:50Z",
+                    "open_issues": 4,
                     "owner": "hasindu2008",
                     "repo": "slow5lib",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -539,12 +729,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structural variation caller using third generation sequencing",
+                "homepage": null,
                 "id": 44923521,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-20T10:12:02Z",
+                "open_issues": 52,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 676
+                "stars": 676,
+                "topics": [
+                  "bioconda",
+                  "bioinformatics",
+                  "nanopore",
+                  "ngm-lr",
+                  "pacbio",
+                  "structural-variation",
+                  "structural-variations"
+                ]
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
             },
@@ -555,12 +758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read-based phasing of genomic variants, also called haplotype assembly",
+                "homepage": "https://whatshap.readthedocs.io",
                 "id": 276673862,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-04T14:50:20Z",
+                "open_issues": 179,
                 "owner": "whatshap",
                 "repo": "whatshap",
-                "stars": 425
+                "stars": 425,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
             },
@@ -571,12 +779,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clair3 - Symphonizing pileup and full-alignment for deep learning-based long-read variant calling",
+                "homepage": null,
                 "id": 352969947,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-09T15:13:07Z",
+                "open_issues": 12,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "computational-biology",
+                  "deep-learning",
+                  "genomics",
+                  "illumina",
+                  "long-reads",
+                  "nanopore",
+                  "ont-data",
+                  "ont-models",
+                  "pacbio",
+                  "variant-calling",
+                  "variant-detection"
+                ]
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
             }
@@ -596,12 +821,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Signal-level algorithms for MinION data",
+                    "homepage": null,
                     "id": 28145157,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-08-05T15:27:20Z",
+                    "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 600
+                    "stars": 600,
+                    "topics": [
+                      "bioinformatics",
+                      "c-plus-plus",
+                      "epigenetics",
+                      "genome-assembly",
+                      "methylation",
+                      "science"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -612,12 +849,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A bioinformatics tool for working with modified bases",
+                    "homepage": "https://nanoporetech.com/",
                     "id": 609224526,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-14T23:37:18Z",
+                    "open_issues": 323,
                     "owner": "nanoporetech",
                     "repo": "modkit",
-                    "stars": 272
+                    "stars": 272,
+                    "topics": [
+                      "methylation",
+                      "modified-bases",
+                      "nanopore"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -628,12 +874,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ultra-fast methylation calling and event alignment tool for nanopore sequencing data (supports CUDA acceleration)",
+                    "homepage": "https://hasindu2008.github.io/f5c/docs/overview",
                     "id": 141697436,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T12:21:57Z",
+                    "open_issues": 1,
                     "owner": "hasindu2008",
                     "repo": "f5c",
-                    "stars": 166
+                    "stars": 166,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -644,12 +895,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Detecting methylation using signal-level features from Nanopore sequencing reads",
+                    "homepage": null,
                     "id": 161388796,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-06-04T08:27:40Z",
+                    "open_issues": 13,
                     "owner": "bioinfomaticsCSU",
                     "repo": "deepsignal",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": [
+                      "bioinformatics",
+                      "epigenetics",
+                      "methylation",
+                      "nanopore-sequencing",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -660,12 +922,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HMM-HDP models for MinION signal alignments",
+                    "homepage": null,
                     "id": 52182286,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2017-04-10T02:06:02Z",
+                    "open_issues": 15,
                     "owner": "ArtRand",
                     "repo": "signalAlign",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -676,12 +943,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A python program to call methylation (m6A in DNA) from nanopore signal data ",
+                    "homepage": null,
                     "id": 82175473,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-06-24T22:04:33Z",
+                    "open_issues": 13,
                     "owner": "al-mcintyre",
                     "repo": "mCaller",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -692,12 +964,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NanoMod: a computational tool to detect DNA modifications using Nanopore long-read sequencing data",
+                    "homepage": null,
                     "id": 122105308,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-02-02T01:52:45Z",
+                    "open_issues": 12,
                     "owner": "WGLab",
                     "repo": "NanoMod",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -708,12 +985,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "nanoNOMe (Nucleosome Occupancy and Methylome nanopore sequencing) Analysis",
+                    "homepage": null,
                     "id": 122674122,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-18T21:06:37Z",
+                    "open_issues": 1,
                     "owner": "timplab",
                     "repo": "nanoNOMe",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -733,12 +1015,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Oxford Nanopore's Basecaller",
+                        "homepage": "https://nanoporetech.com/",
                         "id": 493440634,
                         "language": "C++",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-26T14:07:36Z",
+                        "open_issues": 95,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 866
+                        "stars": 866,
+                        "topics": [
+                          "basecalling",
+                          "genomics",
+                          "libtorch",
+                          "nanopore"
+                        ]
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -749,12 +1041,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Detection of m6A from direct RNA-Seq data",
+                        "homepage": "https://m6anet.readthedocs.io/",
                         "id": 281866292,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-05-19T06:48:08Z",
+                        "open_issues": 25,
                         "owner": "GoekeLab",
                         "repo": "m6anet",
-                        "stars": 133
+                        "stars": 133,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -765,12 +1062,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 791693322,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-06-10T12:03:05Z",
+                        "open_issues": 10,
                         "owner": "xieyy46",
                         "repo": "SingleMod-v1",
-                        "stars": 13
+                        "stars": 13,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -781,12 +1083,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Off-label modification detection in ONT dRNA-seq",
+                        "homepage": null,
                         "id": 922535011,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-08-18T12:25:45Z",
+                        "open_issues": 0,
                         "owner": "KleistLab",
                         "repo": "MoDorado",
-                        "stars": 7
+                        "stars": 7,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     }
@@ -804,12 +1111,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Identification of differential RNA modifications from nanopore direct RNA sequencing",
+                        "homepage": "https://xpore.readthedocs.io/",
                         "id": 232050042,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-08-25T03:33:28Z",
+                        "open_issues": 33,
                         "owner": "GoekeLab",
                         "repo": "xpore",
-                        "stars": 168
+                        "stars": 168,
+                        "topics": [
+                          "genomics",
+                          "machine-learning",
+                          "modification",
+                          "nanopore",
+                          "nanopore-sequencing",
+                          "python",
+                          "rna",
+                          "rna-modifications",
+                          "rna-seq",
+                          "transcriptomics"
+                        ]
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -820,12 +1143,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Detection of m6A from direct RNA-Seq data",
+                        "homepage": "https://m6anet.readthedocs.io/",
                         "id": 281866292,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-05-19T06:48:08Z",
+                        "open_issues": 25,
                         "owner": "GoekeLab",
                         "repo": "m6anet",
-                        "stars": 133
+                        "stars": 133,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -836,12 +1164,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Detection of RNA modifications from Oxford Nanopore direct RNA sequencing reads (Liu*, Begik* et al., Nature Comm 2019)",
+                        "homepage": null,
                         "id": 162431432,
                         "language": "Python",
+                        "license": "GPL-2.0",
                         "last_commit": "2026-03-02T16:58:21Z",
+                        "open_issues": 7,
                         "owner": "novoalab",
                         "repo": "EpiNano",
-                        "stars": 118
+                        "stars": 118,
+                        "topics": [
+                          "direct-rna",
+                          "m6a",
+                          "m6a-rna-modifications",
+                          "nanopore",
+                          "rna-sequencing"
+                        ]
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -852,12 +1191,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "RNA modifications detection from Nanopore dRNA-Seq data",
+                        "homepage": "https://nanocompore.rna.rocks",
                         "id": 143604261,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-08-27T14:27:03Z",
+                        "open_issues": 17,
                         "owner": "tleonardi",
                         "repo": "nanocompore",
-                        "stars": 88
+                        "stars": 88,
+                        "topics": [
+                          "bioinformatics",
+                          "nanopore",
+                          "rna-modifications"
+                        ]
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -868,12 +1216,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 303921600,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-12-24T11:49:45Z",
+                        "open_issues": 17,
                         "owner": "gaoyubang",
                         "repo": "nanom6A",
-                        "stars": 25
+                        "stars": 25,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -884,12 +1237,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Prediction of RNA modifications and their stoichiometry from per-read features: current intensity, dwell time and trace (Begik*, Lucas* et al., Nature Biotech 2021)",
+                        "homepage": null,
                         "id": 282741405,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2022-12-21T12:05:54Z",
+                        "open_issues": 3,
                         "owner": "novoalab",
                         "repo": "nanoRMS",
-                        "stars": 25
+                        "stars": 25,
+                        "topics": [
+                          "predict-rna-modifications",
+                          "rna-modification-stoichiometry",
+                          "tombo-resquiggling"
+                        ]
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -900,12 +1262,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Deep learning model used to detect RNA m6a with read level based on the Nanopore direct RNA data.",
+                        "homepage": null,
                         "id": 311631538,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-10-12T17:17:41Z",
+                        "open_issues": 1,
                         "owner": "weir12",
                         "repo": "DENA",
-                        "stars": 22
+                        "stars": 22,
+                        "topics": [
+                          "nanopore"
+                        ]
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -916,12 +1285,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "DRUMMER: Detection of RNA modifications in nanopore direct RNA Sequencing datasets",
+                        "homepage": null,
                         "id": 273497919,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2022-07-08T08:38:41Z",
+                        "open_issues": 4,
                         "owner": "DepledgeLab",
                         "repo": "DRUMMER",
-                        "stars": 21
+                        "stars": 21,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -932,12 +1306,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "RNA modification detection using Nanopore raw reads with Deep One Class classification",
+                        "homepage": null,
                         "id": 292187043,
                         "language": "Jupyter Notebook",
+                        "license": "GPL-3.0",
                         "last_commit": "2021-05-14T06:08:16Z",
+                        "open_issues": 10,
                         "owner": "uedaLabR",
                         "repo": "nanoDoc",
-                        "stars": 20
+                        "stars": 20,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -948,12 +1327,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 646641216,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2025-03-31T02:38:24Z",
+                        "open_issues": 7,
                         "owner": "yulab2021",
                         "repo": "TandemMod",
-                        "stars": 20
+                        "stars": 20,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -964,12 +1348,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "(m)6A (I)dentification Using (N)anopor(E) (S)equencing",
+                        "homepage": null,
                         "id": 191654409,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2020-11-25T10:49:01Z",
+                        "open_issues": 21,
                         "owner": "YeoLab",
                         "repo": "MINES",
-                        "stars": 19
+                        "stars": 19,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -980,12 +1369,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Penguin: A Tool for Predicting Pseudouridine Sites in Direct RNA Nanopore Sequencing Data",
+                        "homepage": null,
                         "id": 385669554,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2021-11-15T19:31:25Z",
+                        "open_issues": 3,
                         "owner": "Janga-Lab",
                         "repo": "Penguin",
-                        "stars": 15
+                        "stars": 15,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -996,12 +1390,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Yet another nanopore modification comparison tool",
+                        "homepage": null,
                         "id": 292319130,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-03-04T12:45:48Z",
+                        "open_issues": 4,
                         "owner": "bartongroup",
                         "repo": "yanocomp",
-                        "stars": 12
+                        "stars": 12,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -1012,12 +1411,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Scripts for identifying sites with differential error rates in mapped nanopore DRS data",
+                        "homepage": null,
                         "id": 169076748,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2020-11-27T09:29:12Z",
+                        "open_issues": 1,
                         "owner": "bartongroup",
                         "repo": "differr_nanopore_DRS",
-                        "stars": 11
+                        "stars": 11,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -1028,12 +1432,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 789189134,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-02-10T19:02:54Z",
+                        "open_issues": 0,
                         "owner": "kaifuchenlab",
                         "repo": "NanoNm",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     },
@@ -1044,12 +1453,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Magnipore: Differential single nucleotide changes of ONT signals",
+                        "homepage": null,
                         "id": 545997776,
                         "language": "Red",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-06-23T09:21:34Z",
+                        "open_issues": 0,
                         "owner": "rnajena",
                         "repo": "magnipore",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": [
+                          "comparative-analysis",
+                          "epigenomics",
+                          "epitranscriptomics",
+                          "ont",
+                          "oxford-nanopore",
+                          "raw-signal"
+                        ]
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
                     }
@@ -1079,12 +1500,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "De novo assembler for single molecule sequencing reads using repeat graphs",
+                    "homepage": null,
                     "id": 54156538,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-03T20:56:14Z",
+                    "open_issues": 18,
                     "owner": "mikolmogorov",
                     "repo": "Flye",
-                    "stars": 950
+                    "stars": 950,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1095,12 +1521,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Telomere-to-telomere assembly of accurate long reads (PacBio HiFi, Oxford Nanopore Duplex, HERRO corrected Oxford Nanopore Simplex) and Oxford Nanopore ultra-long reads.",
+                    "homepage": null,
                     "id": 381028392,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-25T18:54:51Z",
+                    "open_issues": 18,
                     "owner": "marbl",
                     "repo": "verkko",
-                    "stars": 413
+                    "stars": 413,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1111,12 +1542,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tool for generating consensus long-read assemblies for bacterial genomes",
+                    "homepage": null,
                     "id": 716892548,
                     "language": "Rust",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-14T04:35:35Z",
+                    "open_issues": 0,
                     "owner": "rrwick",
                     "repo": "Autocycler",
-                    "stars": 238
+                    "stars": 238,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1127,12 +1563,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "De novo assembly from Oxford Nanopore reads.",
+                    "homepage": "https://paoloshasta.github.io/shasta/",
                     "id": 545586606,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-29T20:49:41Z",
+                    "open_issues": 0,
                     "owner": "paoloshasta",
                     "repo": "shasta",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -1150,12 +1591,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "    Neural-network consensus polishing and variant calling for Oxford Nanopore sequencing data",
+                    "homepage": "https://nanoporetech.com",
                     "id": 93641740,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-20T13:47:58Z",
+                    "open_issues": 31,
                     "owner": "nanoporetech",
                     "repo": "medaka",
-                    "stars": 522
+                    "stars": 522,
+                    "topics": [
+                      "medaka",
+                      "nanopore"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1166,12 +1615,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HERRO is a highly-accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1 or R9.4.1 reads (read length of >= 10 kbps is recommended).",
+                    "homepage": null,
                     "id": 572788016,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-10T08:56:45Z",
+                    "open_issues": 49,
                     "owner": "lbcb-sci",
                     "repo": "herro",
-                    "stars": 263
+                    "stars": 263,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -1196,12 +1650,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Full-Length Alternative Isoform analysis of RNA",
+                    "homepage": null,
                     "id": 136390187,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-20T15:35:20Z",
+                    "open_issues": 143,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
-                    "stars": 256
+                    "stars": 256,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1212,12 +1671,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reference-guided transcript discovery and quantification for long read RNA-Seq data ",
+                    "homepage": null,
                     "id": 238860759,
                     "language": "R",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-11T12:13:24Z",
+                    "open_issues": 56,
                     "owner": "GoekeLab",
                     "repo": "bambu",
-                    "stars": 255
+                    "stars": 255,
+                    "topics": [
+                      "bambu",
+                      "bioconductor",
+                      "long-reads",
+                      "nanopore",
+                      "nanopore-sequencing",
+                      "r",
+                      "rna-seq",
+                      "rna-seq-analysis",
+                      "transcript-quantification",
+                      "transcript-reconstruction",
+                      "transcriptomics"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1228,12 +1704,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A universal toolkit for upstream processing of long RNA reads",
+                    "homepage": "https://ablab.github.io/IsoQuant/",
                     "id": 256025879,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T15:01:36Z",
+                    "open_issues": 18,
                     "owner": "ablab",
                     "repo": "IsoQuant",
-                    "stars": 237
+                    "stars": 237,
+                    "topics": [
+                      "bioinformatics",
+                      "fusion-genes",
+                      "isoforms",
+                      "long-reads",
+                      "nanopore",
+                      "ngs",
+                      "pacbio",
+                      "polyadenylation",
+                      "quantification",
+                      "rna-seq",
+                      "transcriptome",
+                      "transcriptomics"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1244,12 +1738,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Technology agnostic long read analysis pipeline for transcriptomes",
+                    "homepage": null,
                     "id": 127962663,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-25T22:12:20Z",
+                    "open_issues": 33,
                     "owner": "mortazavilab",
                     "repo": "TALON",
-                    "stars": 162
+                    "stars": 162,
+                    "topics": [
+                      "oxford-nanopore",
+                      "pacbio",
+                      "transcript-quantification",
+                      "transcriptome"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1260,12 +1764,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":hibiscus: reference-free transcriptome assembly for short and long reads",
+                    "homepage": null,
                     "id": 139284325,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-13T03:28:59Z",
+                    "open_issues": 13,
                     "owner": "BirolLab",
                     "repo": "RNA-Bloom",
-                    "stars": 112
+                    "stars": 112,
+                    "topics": [
+                      "bioinformatics-tool",
+                      "bulk-rna-seq",
+                      "denovo-assembly",
+                      "nanopore-sequencing",
+                      "pacbio-sequencing",
+                      "rna-seq",
+                      "single-cell-rna-seq"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1276,12 +1793,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reference-free reconstruction and error correction of transcriptomes from Nanopore long-read sequencing",
+                    "homepage": null,
                     "id": 140854675,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-02-15T03:50:36Z",
+                    "open_issues": 26,
                     "owner": "comprna",
                     "repo": "RATTLE",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": [
+                      "bioinformatics",
+                      "clustering",
+                      "genomics",
+                      "nanopore",
+                      "rna-seq",
+                      "transcriptome"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1292,12 +1821,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 267207583,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-11-28T03:03:36Z",
+                    "open_issues": 8,
                     "owner": "shimlab",
                     "repo": "NanoSplicer",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1308,12 +1842,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An analysis pipeline for Nanopore direct-RNA sequencing ",
+                    "homepage": null,
                     "id": 144128406,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-07-24T10:21:00Z",
+                    "open_issues": 0,
                     "owner": "Runsheng",
                     "repo": "trackcluster",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "bioinformatics",
+                      "longread",
+                      "nanopore",
+                      "rna-seq"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -1331,12 +1875,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Signal-level algorithms for MinION data",
+                    "homepage": null,
                     "id": 28145157,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-08-05T15:27:20Z",
+                    "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 600
+                    "stars": 600,
+                    "topics": [
+                      "bioinformatics",
+                      "c-plus-plus",
+                      "epigenetics",
+                      "genome-assembly",
+                      "methylation",
+                      "science"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1347,12 +1903,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An R package for estimating poly(A)-tail lengths in Oxford Nanopore RNA and DNA reads.",
+                    "homepage": "https://www.cbu.uib.no/valen/",
                     "id": 142865477,
                     "language": "R",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-10-14T06:20:18Z",
+                    "open_issues": 17,
                     "owner": "adnaniazi",
                     "repo": "tailfindr",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": [
+                      "bioinformatics",
+                      "cdna",
+                      "nanopore",
+                      "r",
+                      "rna"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -1370,12 +1937,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "First version of PORE-cupine. Detecting SHAPE modification using direct RNA sequencing",
+                    "homepage": null,
                     "id": 189158253,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2023-07-02T02:46:39Z",
+                    "open_issues": 1,
                     "owner": "awjga",
                     "repo": "PORE-cupine",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 },
@@ -1386,12 +1958,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code accompanying \"Direct detection of RNA modifications and structure using single molecule nanopore sequencing\"",
+                    "homepage": null,
                     "id": 266560158,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-09-29T17:12:32Z",
+                    "open_issues": 1,
                     "owner": "physnano",
                     "repo": "rRNA_nanoSHAPE",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -1409,12 +1986,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SingleCell Nanopore sequencing data analysis",
+                    "homepage": null,
                     "id": 473844049,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-05-30T05:30:09Z",
+                    "open_issues": 7,
                     "owner": "shimlab",
                     "repo": "BLAZE",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -1439,12 +2021,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nanopore sequence read simulator",
+                    "homepage": null,
                     "id": 45647491,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-12T19:53:24Z",
+                    "open_issues": 39,
                     "owner": "BirolLab",
                     "repo": "NanoSim",
-                    "stars": 311
+                    "stars": 311,
+                    "topics": [
+                      "genome",
+                      "nanopore-sequencing",
+                      "oxford-nanopore",
+                      "simulator",
+                      "transcriptome"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -1462,12 +2055,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simulation framework for the estimation of local coverages from long-read DNA sequencing",
+                    "homepage": "https://pypi.org/project/esloco/",
                     "id": 956026655,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-19T08:54:31Z",
+                    "open_issues": 0,
                     "owner": "aweich",
                     "repo": "esloco",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "bioinformatics",
+                      "genomics",
+                      "python",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
                 }
@@ -1494,12 +2097,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nanopore demultiplexing, QC and alignment pipeline",
+            "homepage": "https://nf-co.re/nanoseq",
             "id": 207292537,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-19T20:56:08Z",
+            "open_issues": 63,
             "owner": "nf-core",
             "repo": "nanoseq",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "alignment",
+              "demultiplexing",
+              "nanopore",
+              "nextflow",
+              "nf-core",
+              "pipeline",
+              "qc",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:26:01.694Z"
         },
@@ -1510,12 +2127,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transcript discovery and quantification for long read single cell and spatial transcriptomics data using Bambu",
+            "homepage": null,
             "id": 743357700,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T03:36:28Z",
+            "open_issues": 5,
             "owner": "GoekeLab",
             "repo": "bambu-pipe",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "bambu",
+              "genomics",
+              "isoform-quantification",
+              "long-read-rna-seq",
+              "long-read-sequencing",
+              "nanopore",
+              "nextflow",
+              "pacbio",
+              "pipeline",
+              "rna-seq",
+              "single-cell",
+              "spatial-transcriptomics",
+              "transcript-discovery",
+              "transcript-quantification",
+              "transcriptomics"
+            ]
           },
           "first_seen": "2026-08-28T20:26:01.694Z"
         },
@@ -1526,12 +2164,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master of Pores 2",
+            "homepage": "https://biocorecrg.github.io/MOP2/docs/",
             "id": 427423773,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2024-12-04T09:03:46Z",
+            "open_issues": 21,
             "owner": "biocorecrg",
             "repo": "MOP2",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "cdna",
+              "docker",
+              "nanopore",
+              "nextflow",
+              "pipeline",
+              "rna",
+              "rna-seq",
+              "singularity"
+            ]
           },
           "first_seen": "2026-08-28T20:26:01.694Z"
         },
@@ -1544,12 +2196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A nextflow version of the Wochenende reference metagenome binning and visualization pipeline",
+                "homepage": null,
                 "id": 495350834,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-04T08:33:27Z",
+                "open_issues": 16,
                 "owner": "MHH-RCUG",
                 "repo": "nf_wochenende",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
             }
@@ -1571,12 +2228,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Megalodon is a research command line tool to extract high accuracy modified base and sequence variant calls from raw nanopore reads by anchoring the information rich basecalling neural network output to a reference genome/transriptome.",
+            "homepage": null,
             "id": 192941690,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-04T03:46:46Z",
+            "open_issues": 47,
             "owner": "nanoporetech",
             "repo": "megalodon",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "basecalling",
+              "epigenetics",
+              "guppy",
+              "variant-calling"
+            ]
           },
           "first_seen": "2026-08-28T20:26:01.694Z"
         },
@@ -1587,12 +2254,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "    Aggregate modified-base calls from BAM files into bedMethyl for downstream methylation analysis",
+            "homepage": null,
             "id": 387611258,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-27T19:04:51Z",
+            "open_issues": 0,
             "owner": "epi2me-labs",
             "repo": "modbam2bed",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:01.694Z"
         },
@@ -1603,12 +2275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 648263481,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-12T10:25:34Z",
+            "open_issues": 6,
             "owner": "dieterich-lab",
             "repo": "mAFiA",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:01.694Z"
         }
@@ -1617,15 +2294,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:26:01.694Z",
+    "last_updated": "2026-08-29T04:46:34.312Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome nanopore analysis tools.",
+      "homepage": null,
       "id": 397037208,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-05-20T09:29:37Z",
+      "open_issues": 1,
       "owner": "GoekeLab",
       "repo": "awesome-nanopore",
-      "stars": 327
+      "stars": 327,
+      "topics": [
+        "awesome-list",
+        "bioinformatics",
+        "machine-learning",
+        "nanopore"
+      ]
     },
     "original_repository_sha": "7ea59854fb54da72e94c276fe4e9d26bfb9f5fda",
     "enhanced_repository": "enhansome/enhansome-nanopore",
