@@ -23,7 +23,7 @@
                     "open_issues": 95,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 866,
+                    "stars": 867,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -767,7 +767,7 @@
                 "open_issues": 179,
                 "owner": "whatshap",
                 "repo": "whatshap",
-                "stars": 425,
+                "stars": 428,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1024,7 +1024,7 @@
                         "open_issues": 95,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 866,
+                        "stars": 867,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1624,7 +1624,7 @@
                     "open_issues": 49,
                     "owner": "lbcb-sci",
                     "repo": "herro",
-                    "stars": 263,
+                    "stars": 262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1655,7 +1655,7 @@
                     "id": 136390187,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-29T11:44:18Z",
+                    "last_commit": "2026-08-29T22:02:13Z",
                     "open_issues": 143,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:01:38.652Z",
+    "last_updated": "2026-08-30T14:00:30.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
