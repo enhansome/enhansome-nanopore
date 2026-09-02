@@ -20,10 +20,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-26T14:07:36Z",
-                    "open_issues": 94,
+                    "open_issues": 93,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 869,
+                    "stars": 871,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -268,7 +268,7 @@
                 "open_issues": 76,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2243,
+                "stars": 2244,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -639,7 +639,7 @@
                     "open_issues": 4,
                     "owner": "hiruna72",
                     "repo": "squigualiser",
-                    "stars": 131,
+                    "stars": 130,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -767,7 +767,7 @@
                 "open_issues": 179,
                 "owner": "whatshap",
                 "repo": "whatshap",
-                "stars": 428,
+                "stars": 429,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1021,10 +1021,10 @@
                         "language": "C++",
                         "license": "NOASSERTION",
                         "last_commit": "2026-08-26T14:07:36Z",
-                        "open_issues": 94,
+                        "open_issues": 93,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 869,
+                        "stars": 871,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1676,8 +1676,8 @@
                     "id": 238860759,
                     "language": "R",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-11T12:13:24Z",
-                    "open_issues": 56,
+                    "last_commit": "2026-09-02T02:00:50Z",
+                    "open_issues": 58,
                     "owner": "GoekeLab",
                     "repo": "bambu",
                     "stars": 255,
@@ -1709,8 +1709,8 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-31T22:14:01Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-09-01T16:22:26Z",
+                    "open_issues": 20,
                     "owner": "ablab",
                     "repo": "IsoQuant",
                     "stars": 237,
@@ -2132,8 +2132,8 @@
             "id": 743357700,
             "language": "Nextflow",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T03:36:28Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-02T08:41:51Z",
+            "open_issues": 4,
             "owner": "GoekeLab",
             "repo": "bambu-pipe",
             "stars": 24,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:42:58.264Z",
+    "last_updated": "2026-09-02T12:59:37.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",

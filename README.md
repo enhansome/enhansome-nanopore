@@ -43,7 +43,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 #### ONT basecallers
 
-* [Dorado](https://github.com/nanoporetech/dorado) ⭐ 869 | 🐛 94 | 🌐 C++ | 📅 2026-08-26 - \[C++] - Production basecaller from 2022, successor to Guppy.
+* [Dorado](https://github.com/nanoporetech/dorado) ⭐ 871 | 🐛 93 | 🌐 C++ | 📅 2026-08-26 - \[C++] - Production basecaller from 2022, successor to Guppy.
 * [Bonito](https://github.com/nanoporetech/bonito) ⭐ 436 | 🐛 6 | 🌐 Python | 📅 2026-02-20 - \[Python] - A PyTorch Basecaller for Oxford Nanopore Reads (research, not production basecaller)
 
 #### Research Basecallers (2016 - 2021)
@@ -63,7 +63,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ### Alignment
 
-* [minimap2](https://github.com/lh3/minimap2) ⭐ 2,243 | 🐛 76 | 🌐 C | 📅 2026-05-19 - \[C] - [Minimap2: pairwise alignment for nucleotide sequences](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
+* [minimap2](https://github.com/lh3/minimap2) ⭐ 2,244 | 🐛 76 | 🌐 C | 📅 2026-05-19 - \[C] - [Minimap2: pairwise alignment for nucleotide sequences](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
 * [Winnowmap](https://github.com/marbl/winnowmap) ⭐ 330 | 🐛 37 | 🌐 C | 📅 2025-12-16 - \[C] - [Weighted minimizer sampling improves long read mapping](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i111/5870473)
 
 ### Signal analysis
@@ -89,7 +89,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 #### Raw signal data manipulation, conversion, visualisation, etc.
 
-* [Squigualiser](https://github.com/hiruna72/squigualiser) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2026-06-11 - \[Python] - [Interactive visualization of nanopore sequencing signal data with Squigualiser](doi.org/10.1093/bioinformatics/btae501)
+* [Squigualiser](https://github.com/hiruna72/squigualiser) ⭐ 130 | 🐛 4 | 🌐 Python | 📅 2026-06-11 - \[Python] - [Interactive visualization of nanopore sequencing signal data with Squigualiser](doi.org/10.1093/bioinformatics/btae501)
 * [SquiggleKit SquigglePlot](https://github.com/Psy-Fer/SquiggleKit) ⭐ 129 | 🐛 22 | 🌐 Python | 📅 2024-02-16 - \[Python] - [SquiggleKit: a toolkit for manipulating nanopore signal data](https://academic.oup.com/bioinformatics/article/35/24/5372/5537108)
 * [slow5tools](https://github.com/hasindu2008/slow5tools) ⭐ 106 | 🐛 0 | 🌐 C | 📅 2026-08-26 - \[C/C++] - [Toolkit for converting (FAST5 <-> SLOW5), compressing, viewing, indexing and manipulating data in SLOW5 format](https://hasindu2008.github.io/slow5tools/)
 * [slow5lib](https://github.com/hasindu2008/slow5lib) ⭐ 49 | 🐛 4 | 🌐 C | 📅 2026-08-24 - \[C] - [Fast nanopore sequencing data analysis with SLOW5
@@ -100,7 +100,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 ### Variant, SV calling, Phasing
 
 * [Sniffles](https://github.com/fritzsedlazeck/sniffles) ⭐ 677 | 🐛 53 | 🌐 Python | 📅 2026-07-20 - \[Python] - [Detection of mosaic and population-level structural variants with Sniffles2](https://www.nature.com/articles/s41587-023-02024-y)
-* [whatshap](https://github.com/whatshap/whatshap) ⭐ 428 | 🐛 179 | 🌐 Python | 📅 2026-07-04 - \[Python/C++] - [Read-Based Phasing and Analysis of Phased Variants with WhatsHap](https://link.springer.com/protocol/10.1007/978-1-0716-2819-5_8)
+* [whatshap](https://github.com/whatshap/whatshap) ⭐ 429 | 🐛 179 | 🌐 Python | 📅 2026-07-04 - \[Python/C++] - [Read-Based Phasing and Analysis of Phased Variants with WhatsHap](https://link.springer.com/protocol/10.1007/978-1-0716-2819-5_8)
 * [Clair3](https://github.com/HKU-BAL/Clair3) ⭐ 389 | 🐛 12 | 🌐 Python | 📅 2026-09-01 - \[Python/C++] - [Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data](https://www.nature.com/articles/s41467-025-67237-y)
 
 ### Modification analysis
@@ -120,7 +120,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ##### RNA004 Chemistry Compatible Tools
 
-* [Dorado](https://github.com/nanoporetech/dorado) ⭐ 869 | 🐛 94 | 🌐 C++ | 📅 2026-08-26 - \[C++] - [Supports calling 8 different RNA modifications: inosine, m6A, 2′OmeA on A; pseU, 2′OmeU on U; m5C, 2′OmeC on C; and 2′OmeG on G as of May 2025](https://software-docs.nanoporetech.com/dorado/1.4.0/models/list/)
+* [Dorado](https://github.com/nanoporetech/dorado) ⭐ 871 | 🐛 93 | 🌐 C++ | 📅 2026-08-26 - \[C++] - [Supports calling 8 different RNA modifications: inosine, m6A, 2′OmeA on A; pseU, 2′OmeU on U; m5C, 2′OmeC on C; and 2′OmeG on G as of May 2025](https://software-docs.nanoporetech.com/dorado/1.4.0/models/list/)
 * [m6anet](https://github.com/GoekeLab/m6anet) ⭐ 133 | 🐛 25 | 🌐 Python | 📅 2025-05-19 - \[Python] - [Detection of m6A from direct RNA sequencing using a multiple instance learning framework](https://www.nature.com/articles/s41592-022-01666-1).
 * [SingleMod](https://github.com/xieyy46/SingleMod-v1) ⭐ 13 | 🐛 10 | 🌐 Python | 📅 2025-06-10 - \[Python] - [Single-molecule direct RNA sequencing reveals the shaping of epitranscriptome across multiple species](https://www.nature.com/articles/s41467-025-60447-4)
 * [MoDorado](https://github.com/KleistLab/MoDorado) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - \[Python] - [MoDorado: enhanced detection of tRNA modifications in nanopore sequencing by off-label use of modification callers](https://academic.oup.com/nar/article/53/15/gkaf795/8237893)
@@ -164,8 +164,8 @@ List of software packages for Nanopore sequencing data analysis, including basec
 #### Transcript discovery and quantification
 
 * [FLAIR](https://github.com/BrooksLabUCSC/FLAIR) ⭐ 256 | 🐛 143 | 🌐 Python | 📅 2026-08-29 - \[Python] - [Full-Length Alternative Isoform analysis of RNA](https://www.nature.com/articles/s41467-020-15171-6)
-* [bambu](https://github.com/GoekeLab/bambu) ⭐ 255 | 🐛 56 | 🌐 R | 📅 2026-08-11 - \[R] - [Context-Aware Transcript Quantification from Long Read RNA-Seq data with Bambu](https://rdcu.be/deluQ)
-* [IsoQuant](https://github.com/ablab/IsoQuant) ⭐ 237 | 🐛 19 | 🌐 Python | 📅 2026-08-31 - \[Python] - [Accurate isoform discovery with IsoQuant using long reads](https://www.nature.com/articles/s41587-022-01565-y)
+* [bambu](https://github.com/GoekeLab/bambu) ⭐ 255 | 🐛 58 | 🌐 R | 📅 2026-09-02 - \[R] - [Context-Aware Transcript Quantification from Long Read RNA-Seq data with Bambu](https://rdcu.be/deluQ)
+* [IsoQuant](https://github.com/ablab/IsoQuant) ⭐ 237 | 🐛 20 | 🌐 Python | 📅 2026-09-01 - \[Python] - [Accurate isoform discovery with IsoQuant using long reads](https://www.nature.com/articles/s41587-022-01565-y)
 * [TALON](https://github.com/mortazavilab/TALON) ⭐ 162 | 🐛 33 | 🌐 Python | 📅 2024-01-25 - \[Python] - [Python package for identifying and quantifying known and novel genes/isoforms in long-read transcriptome data sets](https://www.biorxiv.org/content/10.1101/672931v2) **Run before** [TranscriptClean](https://github.com/mortazavilab/TranscriptClean) ⭐ 72 | 🐛 14 | 🌐 Python | 📅 2024-01-31
 * [RNAbloom2](https://github.com/bcgsc/RNA-Bloom) ⭐ 112 | 🐛 13 | 🌐 Java | 📅 2026-03-13 - \[Java] - [Reference-free assembly of long-read transcriptome sequencing data with RNA-Bloom2](https://www.nature.com/articles/s41467-023-38553-y)
 * [RATTLE](https://github.com/comprna/RATTLE/) ⭐ 63 | 🐛 26 | 🌐 C++ | 📅 2024-02-15 - \[C++] - [RATTLE: reference-free reconstruction and quantification of transcriptomes from Nanopore sequencing](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02715-w)
@@ -199,7 +199,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 ## Pipelines
 
 * [nf-core/nanoseq](https://github.com/nf-core/nanoseq) ⭐ 228 | 🐛 64 | 🌐 Nextflow | 📅 2026-09-01 - \[Nextflow] - [A systematic benchmark of Nanopore long read RNA sequencing for transcript level analysis in human cell lines](https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1) (Not yet updated for ONT's latest chemistry)
-* [bambu-pipe](https://github.com/GoekeLab/bambu-pipe) ⭐ 24 | 🐛 5 | 🌐 Nextflow | 📅 2026-08-27 - \[Nextflow] - [Isoform-level discovery, quantification and fusion analysis from single-cell and spatial long-read RNA-seq data with Bambu-Clump](https://www.biorxiv.org/content/10.1101/2024.12.30.630828v1.full)
+* [bambu-pipe](https://github.com/GoekeLab/bambu-pipe) ⭐ 24 | 🐛 4 | 🌐 Nextflow | 📅 2026-09-02 - \[Nextflow] - [Isoform-level discovery, quantification and fusion analysis from single-cell and spatial long-read RNA-seq data with Bambu-Clump](https://www.biorxiv.org/content/10.1101/2024.12.30.630828v1.full)
 * [MOP2](https://github.com/biocorecrg/MOP2) ⭐ 23 | 🐛 21 | 🌐 Nextflow | 📅 2024-12-04 - \[Nextflow] - [MasterOfPores: A Workflow for the Analysis of Oxford Nanopore Direct RNA Sequencing Datasets](https://www.frontiersin.org/articles/10.3389/fgene.2020.00211/full)
 
 ### Metagenomics
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 501,926 | 🐛 105 | 📅 2026-08-21, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 501,926 | 🐛 105 | 📅 2026-08-21.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 502,233 | 🐛 105 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 502,233 | 🐛 105 | 📅 2026-09-02.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
