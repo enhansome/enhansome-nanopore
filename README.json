@@ -489,7 +489,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 600,
+                    "stars": 601,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -734,8 +734,8 @@
                 "id": 44923521,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-20T10:12:02Z",
-                "open_issues": 53,
+                "last_commit": "2026-09-03T06:36:49Z",
+                "open_issues": 51,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
                 "stars": 677,
@@ -784,8 +784,8 @@
                 "id": 352969947,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-01T04:49:58Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-03T10:58:11Z",
+                "open_issues": 14,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 389,
@@ -830,7 +830,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 600,
+                    "stars": 601,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -855,7 +855,7 @@
                     "language": "Rust",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-14T23:37:18Z",
-                    "open_issues": 323,
+                    "open_issues": 324,
                     "owner": "nanoporetech",
                     "repo": "modkit",
                     "stars": 272,
@@ -1645,6 +1645,39 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "bambu",
+                  "description": "[R] - Context-Aware Transcript Quantification from Long Read RNA-Seq data with Bambu",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Reference-guided transcript discovery and quantification for long read RNA-Seq data ",
+                    "homepage": null,
+                    "id": 238860759,
+                    "language": "R",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-02T02:00:50Z",
+                    "open_issues": 58,
+                    "owner": "GoekeLab",
+                    "repo": "bambu",
+                    "stars": 257,
+                    "topics": [
+                      "bambu",
+                      "bioconductor",
+                      "long-reads",
+                      "nanopore",
+                      "nanopore-sequencing",
+                      "r",
+                      "rna-seq",
+                      "rna-seq-analysis",
+                      "transcript-quantification",
+                      "transcript-reconstruction",
+                      "transcriptomics"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:26:01.694Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "FLAIR",
                   "description": "[Python] - Full-Length Alternative Isoform analysis of RNA",
                   "children": [],
@@ -1666,39 +1699,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "bambu",
-                  "description": "[R] - Context-Aware Transcript Quantification from Long Read RNA-Seq data with Bambu",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Reference-guided transcript discovery and quantification for long read RNA-Seq data ",
-                    "homepage": null,
-                    "id": 238860759,
-                    "language": "R",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-02T02:00:50Z",
-                    "open_issues": 58,
-                    "owner": "GoekeLab",
-                    "repo": "bambu",
-                    "stars": 255,
-                    "topics": [
-                      "bambu",
-                      "bioconductor",
-                      "long-reads",
-                      "nanopore",
-                      "nanopore-sequencing",
-                      "r",
-                      "rna-seq",
-                      "rna-seq-analysis",
-                      "transcript-quantification",
-                      "transcript-reconstruction",
-                      "transcriptomics"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:26:01.694Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "IsoQuant",
                   "description": "[Python] - Accurate isoform discovery with IsoQuant using long reads",
                   "children": [],
@@ -1709,7 +1709,7 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T16:22:26Z",
+                    "last_commit": "2026-09-02T21:27:08Z",
                     "open_issues": 20,
                     "owner": "ablab",
                     "repo": "IsoQuant",
@@ -1884,7 +1884,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 600,
+                    "stars": 601,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:59:37.004Z",
+    "last_updated": "2026-09-03T13:01:45.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
@@ -2306,7 +2306,7 @@
       "open_issues": 1,
       "owner": "GoekeLab",
       "repo": "awesome-nanopore",
-      "stars": 327,
+      "stars": 328,
       "topics": [
         "awesome-list",
         "bioinformatics",
