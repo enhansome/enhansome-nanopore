@@ -19,8 +19,8 @@
                     "id": 493440634,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-26T14:07:36Z",
-                    "open_issues": 93,
+                    "last_commit": "2026-09-03T16:00:49Z",
+                    "open_issues": 92,
                     "owner": "nanoporetech",
                     "repo": "dorado",
                     "stars": 871,
@@ -735,10 +735,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T06:36:49Z",
-                "open_issues": 51,
+                "open_issues": 42,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 677,
+                "stars": 678,
                 "topics": [
                   "bioconda",
                   "bioinformatics",
@@ -784,11 +784,11 @@
                 "id": 352969947,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-03T10:58:11Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-04T07:54:21Z",
+                "open_issues": 13,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
-                "stars": 389,
+                "stars": 390,
                 "topics": [
                   "computational-biology",
                   "deep-learning",
@@ -858,7 +858,7 @@
                     "open_issues": 324,
                     "owner": "nanoporetech",
                     "repo": "modkit",
-                    "stars": 272,
+                    "stars": 273,
                     "topics": [
                       "methylation",
                       "modified-bases",
@@ -1020,8 +1020,8 @@
                         "id": 493440634,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-08-26T14:07:36Z",
-                        "open_issues": 93,
+                        "last_commit": "2026-09-03T16:00:49Z",
+                        "open_issues": 92,
                         "owner": "nanoporetech",
                         "repo": "dorado",
                         "stars": 871,
@@ -1600,7 +1600,7 @@
                     "open_issues": 31,
                     "owner": "nanoporetech",
                     "repo": "medaka",
-                    "stars": 524,
+                    "stars": 525,
                     "topics": [
                       "medaka",
                       "nanopore"
@@ -1713,7 +1713,7 @@
                     "open_issues": 20,
                     "owner": "ablab",
                     "repo": "IsoQuant",
-                    "stars": 237,
+                    "stars": 238,
                     "topics": [
                       "bioinformatics",
                       "fusion-genes",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:01:45.980Z",
+    "last_updated": "2026-09-04T12:57:03.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
