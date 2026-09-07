@@ -268,7 +268,7 @@
                 "open_issues": 76,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2245,
+                "stars": 2246,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -767,7 +767,7 @@
                 "open_issues": 179,
                 "owner": "whatshap",
                 "repo": "whatshap",
-                "stars": 428,
+                "stars": 429,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1120,7 +1120,7 @@
                         "open_issues": 33,
                         "owner": "GoekeLab",
                         "repo": "xpore",
-                        "stars": 168,
+                        "stars": 169,
                         "topics": [
                           "genomics",
                           "machine-learning",
@@ -1659,7 +1659,7 @@
                     "open_issues": 58,
                     "owner": "GoekeLab",
                     "repo": "bambu",
-                    "stars": 257,
+                    "stars": 258,
                     "topics": [
                       "bambu",
                       "bioconductor",
@@ -1713,7 +1713,7 @@
                     "open_issues": 21,
                     "owner": "ablab",
                     "repo": "IsoQuant",
-                    "stars": 238,
+                    "stars": 239,
                     "topics": [
                       "bioinformatics",
                       "fusion-genes",
@@ -1995,7 +1995,7 @@
                     "open_issues": 7,
                     "owner": "shimlab",
                     "repo": "BLAZE",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:21:48.849Z",
+    "last_updated": "2026-09-07T14:28:59.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
