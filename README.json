@@ -294,7 +294,7 @@
                 "open_issues": 37,
                 "owner": "marbl",
                 "repo": "Winnowmap",
-                "stars": 330,
+                "stars": 331,
                 "topics": [
                   "genome-analysis",
                   "nanopore",
@@ -328,7 +328,7 @@
                     "open_issues": 20,
                     "owner": "skovaka",
                     "repo": "UNCALLED",
-                    "stars": 532,
+                    "stars": 531,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -784,11 +784,11 @@
                 "id": 352969947,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-04T07:54:21Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-08T10:57:50Z",
+                "open_issues": 14,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
-                "stars": 390,
+                "stars": 391,
                 "topics": [
                   "computational-biology",
                   "deep-learning",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:28:59.550Z",
+    "last_updated": "2026-09-08T13:05:40.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",

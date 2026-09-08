@@ -64,13 +64,13 @@ List of software packages for Nanopore sequencing data analysis, including basec
 ### Alignment
 
 * [minimap2](https://github.com/lh3/minimap2) ⭐ 2,246 | 🐛 76 | 🌐 C | 📅 2026-05-19 - \[C] - [Minimap2: pairwise alignment for nucleotide sequences](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
-* [Winnowmap](https://github.com/marbl/winnowmap) ⭐ 330 | 🐛 37 | 🌐 C | 📅 2025-12-16 - \[C] - [Weighted minimizer sampling improves long read mapping](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i111/5870473)
+* [Winnowmap](https://github.com/marbl/winnowmap) ⭐ 331 | 🐛 37 | 🌐 C | 📅 2025-12-16 - \[C] - [Weighted minimizer sampling improves long read mapping](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i111/5870473)
 
 ### Signal analysis
 
 #### Adaptive sampling / ReadUntil Real-time mapping / signal mapping
 
-* [UNCALLED](https://github.com/skovaka/UNCALLED) ⭐ 532 | 🐛 20 | 🌐 C++ | 📅 2024-03-05 - \[C++] - [Targeted nanopore sequencing by real-time mapping of raw electrical signal with UNCALLED](https://www.nature.com/articles/s41587-020-0731-9)
+* [UNCALLED](https://github.com/skovaka/UNCALLED) ⭐ 531 | 🐛 20 | 🌐 C++ | 📅 2024-03-05 - \[C++] - [Targeted nanopore sequencing by real-time mapping of raw electrical signal with UNCALLED](https://www.nature.com/articles/s41587-020-0731-9)
 * [Readfish](https://github.com/LooseLab/readfish) ⭐ 198 | 🐛 16 | 🌐 Python | 📅 2026-02-25 - \[Python] - [Readfish enables targeted nanopore sequencing of gigabase-sized genomes](https://www.nature.com/articles/s41587-020-00746-x)
 * [OpenDBA](https://github.com/nodrogluap/OpenDBA) ⭐ 70 | 🐛 3 | 🌐 C++ | 📅 2025-07-24 - \[C++/CUDA] - [GPU-accelerated Dynamic Time Warp (DTW) Barycenter Averaging](https://github.com/nodrogluap/OpenDBA#how-do-i-use-this-for-oxford-nanopore-data) ⭐ 70 | 🐛 3 | 🌐 C++ | 📅 2025-07-24
 * [Sigmap](https://github.com/haowenz/sigmap) ⭐ 32 | 🐛 4 | 🌐 C++ | 📅 2021-11-07 - \[C/C++] - [Real-time mapping of nanopore raw signals](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i477/6319675)
@@ -101,7 +101,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 * [Sniffles](https://github.com/fritzsedlazeck/sniffles) ⭐ 678 | 🐛 42 | 🌐 Python | 📅 2026-09-03 - \[Python] - [Detection of mosaic and population-level structural variants with Sniffles2](https://www.nature.com/articles/s41587-023-02024-y)
 * [whatshap](https://github.com/whatshap/whatshap) ⭐ 429 | 🐛 179 | 🌐 Python | 📅 2026-07-04 - \[Python/C++] - [Read-Based Phasing and Analysis of Phased Variants with WhatsHap](https://link.springer.com/protocol/10.1007/978-1-0716-2819-5_8)
-* [Clair3](https://github.com/HKU-BAL/Clair3) ⭐ 390 | 🐛 13 | 🌐 Python | 📅 2026-09-04 - \[Python/C++] - [Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data](https://www.nature.com/articles/s41467-025-67237-y)
+* [Clair3](https://github.com/HKU-BAL/Clair3) ⭐ 391 | 🐛 14 | 🌐 Python | 📅 2026-09-08 - \[Python/C++] - [Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data](https://www.nature.com/articles/s41467-025-67237-y)
 
 ### Modification analysis
 
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 503,867 | 🐛 106 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 503,867 | 🐛 106 | 📅 2026-09-02.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 504,139 | 🐛 106 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 504,139 | 🐛 106 | 📅 2026-09-02.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
