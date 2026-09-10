@@ -216,7 +216,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-05T20:46:55Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "wdecoster",
                 "repo": "NanoPlot",
                 "stars": 560,
@@ -784,8 +784,8 @@
                 "id": 352969947,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-09T09:14:03Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-09T15:09:48Z",
+                "open_issues": 15,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 391,
@@ -1530,7 +1530,7 @@
                     "open_issues": 19,
                     "owner": "marbl",
                     "repo": "verkko",
-                    "stars": 415,
+                    "stars": 417,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1624,7 +1624,7 @@
                     "open_issues": 49,
                     "owner": "lbcb-sci",
                     "repo": "herro",
-                    "stars": 263,
+                    "stars": 264,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1995,7 +1995,7 @@
                     "open_issues": 7,
                     "owner": "shimlab",
                     "repo": "BLAZE",
-                    "stars": 70,
+                    "stars": 71,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:10:49.907Z",
+    "last_updated": "2026-09-10T13:08:33.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",

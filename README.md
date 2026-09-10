@@ -58,7 +58,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ### QC, preprocessing
 
-* [NanoPlot](https://github.com/wdecoster/nanoplot) ⭐ 560 | 🐛 17 | 🌐 HTML | 📅 2026-09-05 - \[HTML/Python] - [QC plotting tool for Nanopore reads](https://academic.oup.com/bioinformatics/article/39/5/btad311/7160911?login=false)
+* [NanoPlot](https://github.com/wdecoster/nanoplot) ⭐ 560 | 🐛 18 | 🌐 HTML | 📅 2026-09-05 - \[HTML/Python] - [QC plotting tool for Nanopore reads](https://academic.oup.com/bioinformatics/article/39/5/btad311/7160911?login=false)
 * [Cramino](https://github.com/wdecoster/cramino) ⭐ 190 | 🐛 3 | 🌐 Rust | 📅 2026-09-01 - \[Rust] - A tool for quick quality assessment of cram and bam files, intended for long read sequencing
 
 ### Alignment
@@ -101,7 +101,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 * [Sniffles](https://github.com/fritzsedlazeck/sniffles) ⭐ 678 | 🐛 42 | 🌐 Python | 📅 2026-09-03 - \[Python] - [Detection of mosaic and population-level structural variants with Sniffles2](https://www.nature.com/articles/s41587-023-02024-y)
 * [whatshap](https://github.com/whatshap/whatshap) ⭐ 429 | 🐛 179 | 🌐 Python | 📅 2026-07-04 - \[Python/C++] - [Read-Based Phasing and Analysis of Phased Variants with WhatsHap](https://link.springer.com/protocol/10.1007/978-1-0716-2819-5_8)
-* [Clair3](https://github.com/HKU-BAL/Clair3) ⭐ 391 | 🐛 14 | 🌐 Python | 📅 2026-09-09 - \[Python/C++] - [Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data](https://www.nature.com/articles/s41467-025-67237-y)
+* [Clair3](https://github.com/HKU-BAL/Clair3) ⭐ 391 | 🐛 15 | 🌐 Python | 📅 2026-09-09 - \[Python/C++] - [Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data](https://www.nature.com/articles/s41467-025-67237-y)
 
 ### Modification analysis
 
@@ -150,14 +150,14 @@ List of software packages for Nanopore sequencing data analysis, including basec
 #### Genome Assembly
 
 * [Flye](https://github.com/fenderglass/Flye) ⭐ 950 | 🐛 18 | 🌐 C | 📅 2026-04-03 - \[C++] - Single molecule sequence assembler with good polishing capabilities
-* [Verkko](https://github.com/marbl/verkko) ⭐ 415 | 🐛 19 | 🌐 Python | 📅 2026-08-25 - \[Python] - hybrid genome assembly pipeline developed for telomere-to-telomere assembly of accurate long reads (PacBio HiFi, Oxford Nanopore Duplex, HERRO or Hifiasm corrected Oxford Nanopore Simplex) and Oxford Nanopore ultra-long reads. [Telomere-to-telomere assembly of diploid chromosomes with Verkko](https://www.nature.com/articles/s41587-023-01662-6)
+* [Verkko](https://github.com/marbl/verkko) ⭐ 417 | 🐛 19 | 🌐 Python | 📅 2026-08-25 - \[Python] - hybrid genome assembly pipeline developed for telomere-to-telomere assembly of accurate long reads (PacBio HiFi, Oxford Nanopore Duplex, HERRO or Hifiasm corrected Oxford Nanopore Simplex) and Oxford Nanopore ultra-long reads. [Telomere-to-telomere assembly of diploid chromosomes with Verkko](https://www.nature.com/articles/s41587-023-01662-6)
 * [Autocycler](https://github.com/rrwick/Autocycler) ⭐ 238 | 🐛 0 | 🌐 Rust | 📅 2026-08-31 - \[Rust] - [Autocycler: long-read consensus assembly for bacterial genomes](https://academic.oup.com/bioinformatics/article/41/9/btaf474/8242761)
 * [Shasta](https://github.com/paoloshasta/shasta) ⭐ 89 | 🐛 0 | 🌐 C++ | 📅 2026-06-29 - \[C] - Very fast and capable nanopore assembler
 
 #### Polishing, Error correction
 
 * [Medaka](https://github.com/nanoporetech/medaka) ⭐ 525 | 🐛 31 | 🌐 Python | 📅 2026-05-20 - \[Python] - ONT's official polisher
-* [Herro](https://github.com/lbcb-sci/herro) ⭐ 263 | 🐛 49 | 🌐 Rust | 📅 2026-07-10 - \[Rust] - [Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads](https://www.nature.com/articles/s41586-026-10563-y)
+* [Herro](https://github.com/lbcb-sci/herro) ⭐ 264 | 🐛 49 | 🌐 Rust | 📅 2026-07-10 - \[Rust] - [Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads](https://www.nature.com/articles/s41586-026-10563-y)
 
 ### Transcriptomics
 
@@ -184,7 +184,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 #### Single-cell analysis
 
-* [BLAZE](https://github.com/shimlab/BLAZE) ⭐ 70 | 🐛 7 | 🌐 Python | 📅 2025-05-30 - \[Python] - [Identification of cell barcodes from long-read single-cell RNA-seq with BLAZE](https://www.biorxiv.org/content/10.1101/2022.08.16.504056v1)
+* [BLAZE](https://github.com/shimlab/BLAZE) ⭐ 71 | 🐛 7 | 🌐 Python | 📅 2025-05-30 - \[Python] - [Identification of cell barcodes from long-read single-cell RNA-seq with BLAZE](https://www.biorxiv.org/content/10.1101/2022.08.16.504056v1)
 
 ### Simulation
 
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 504,431 | 🐛 106 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 504,431 | 🐛 106 | 📅 2026-09-02.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 504,700 | 🐛 106 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 504,700 | 🐛 106 | 📅 2026-09-02.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
