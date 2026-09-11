@@ -23,7 +23,7 @@
                     "open_issues": 94,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 871,
+                    "stars": 872,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -734,7 +734,7 @@
                 "id": 44923521,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T06:36:49Z",
+                "last_commit": "2026-09-10T16:21:12Z",
                 "open_issues": 42,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
@@ -784,8 +784,8 @@
                 "id": 352969947,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-09T15:09:48Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-11T08:29:26Z",
+                "open_issues": 16,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 391,
@@ -1024,7 +1024,7 @@
                         "open_issues": 94,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 871,
+                        "stars": 872,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1600,7 +1600,7 @@
                     "open_issues": 31,
                     "owner": "nanoporetech",
                     "repo": "medaka",
-                    "stars": 525,
+                    "stars": 526,
                     "topics": [
                       "medaka",
                       "nanopore"
@@ -1692,7 +1692,7 @@
                     "open_issues": 143,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
-                    "stars": 256,
+                    "stars": 257,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:08:33.619Z",
+    "last_updated": "2026-09-11T13:02:19.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
