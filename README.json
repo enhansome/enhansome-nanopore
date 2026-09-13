@@ -268,7 +268,7 @@
                 "open_issues": 76,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -489,7 +489,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 601,
+                    "stars": 602,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -738,7 +738,7 @@
                 "open_issues": 42,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 678,
+                "stars": 679,
                 "topics": [
                   "bioconda",
                   "bioinformatics",
@@ -830,7 +830,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 601,
+                    "stars": 602,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -1050,7 +1050,7 @@
                         "open_issues": 25,
                         "owner": "GoekeLab",
                         "repo": "m6anet",
-                        "stars": 133,
+                        "stars": 134,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1120,7 +1120,7 @@
                         "open_issues": 33,
                         "owner": "GoekeLab",
                         "repo": "xpore",
-                        "stars": 169,
+                        "stars": 170,
                         "topics": [
                           "genomics",
                           "machine-learning",
@@ -1152,7 +1152,7 @@
                         "open_issues": 25,
                         "owner": "GoekeLab",
                         "repo": "m6anet",
-                        "stars": 133,
+                        "stars": 134,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1551,7 +1551,7 @@
                     "open_issues": 0,
                     "owner": "rrwick",
                     "repo": "Autocycler",
-                    "stars": 238,
+                    "stars": 239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1659,7 +1659,7 @@
                     "open_issues": 58,
                     "owner": "GoekeLab",
                     "repo": "bambu",
-                    "stars": 258,
+                    "stars": 259,
                     "topics": [
                       "bambu",
                       "bioconductor",
@@ -1884,7 +1884,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 601,
+                    "stars": 602,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -2136,7 +2136,7 @@
             "open_issues": 4,
             "owner": "GoekeLab",
             "repo": "bambu-pipe",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "bambu",
               "genomics",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:24:02.707Z",
+    "last_updated": "2026-09-13T13:28:35.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
@@ -2306,7 +2306,7 @@
       "open_issues": 1,
       "owner": "GoekeLab",
       "repo": "awesome-nanopore",
-      "stars": 330,
+      "stars": 331,
       "topics": [
         "awesome-list",
         "bioinformatics",
