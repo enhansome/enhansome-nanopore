@@ -23,7 +23,7 @@
                     "open_issues": 95,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 874,
+                    "stars": 875,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -583,7 +583,7 @@
                     "open_issues": 30,
                     "owner": "skovaka",
                     "repo": "uncalled4",
-                    "stars": 85,
+                    "stars": 84,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -785,7 +785,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-15T02:12:05Z",
-                "open_issues": 16,
+                "open_issues": 21,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 391,
@@ -1024,7 +1024,7 @@
                         "open_issues": 95,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 874,
+                        "stars": 875,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1322,27 +1322,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "TandemMod",
-                      "description": "[Python] - Transfer learning enables identification of multiple types of RNA modifications using nanopore direct RNA sequencing",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 646641216,
-                        "language": "Jupyter Notebook",
-                        "license": null,
-                        "last_commit": "2025-03-31T02:38:24Z",
-                        "open_issues": 7,
-                        "owner": "yulab2021",
-                        "repo": "TandemMod",
-                        "stars": 20,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T20:26:01.694Z"
-                    },
-                    {
-                      "node_type": "item",
                       "title": "MINES",
                       "description": "[Python] - Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution.",
                       "children": [],
@@ -1357,6 +1336,27 @@
                         "open_issues": 21,
                         "owner": "YeoLab",
                         "repo": "MINES",
+                        "stars": 19,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:26:01.694Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "TandemMod",
+                      "description": "[Python] - Transfer learning enables identification of multiple types of RNA modifications using nanopore direct RNA sequencing",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 646641216,
+                        "language": "Jupyter Notebook",
+                        "license": null,
+                        "last_commit": "2025-03-31T02:38:24Z",
+                        "open_issues": 7,
+                        "owner": "yulab2021",
+                        "repo": "TandemMod",
                         "stars": 19,
                         "topics": []
                       },
@@ -1547,7 +1547,7 @@
                     "id": 716892548,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-31T04:52:07Z",
+                    "last_commit": "2026-09-17T06:41:48Z",
                     "open_issues": 0,
                     "owner": "rrwick",
                     "repo": "Autocycler",
@@ -1709,8 +1709,8 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-16T12:31:06Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-09-17T11:00:03Z",
+                    "open_issues": 19,
                     "owner": "ablab",
                     "repo": "IsoQuant",
                     "stars": 239,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:46:06.265Z",
+    "last_updated": "2026-09-17T13:48:32.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
@@ -2303,7 +2303,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-05-20T09:29:37Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "GoekeLab",
       "repo": "awesome-nanopore",
       "stars": 331,
