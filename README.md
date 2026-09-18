@@ -43,7 +43,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 #### ONT basecallers
 
-* [Dorado](https://github.com/nanoporetech/dorado) ⭐ 875 | 🐛 95 | 🌐 C++ | 📅 2026-09-03 - \[C++] - Production basecaller from 2022, successor to Guppy.
+* [Dorado](https://github.com/nanoporetech/dorado) ⭐ 875 | 🐛 94 | 🌐 C++ | 📅 2026-09-03 - \[C++] - Production basecaller from 2022, successor to Guppy.
 * [Bonito](https://github.com/nanoporetech/bonito) ⭐ 436 | 🐛 6 | 🌐 Python | 📅 2026-02-20 - \[Python] - A PyTorch Basecaller for Oxford Nanopore Reads (research, not production basecaller)
 
 #### Research Basecallers (2016 - 2021)
@@ -101,14 +101,14 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 * [Sniffles](https://github.com/fritzsedlazeck/sniffles) ⭐ 679 | 🐛 43 | 🌐 Python | 📅 2026-09-10 - \[Python] - [Detection of mosaic and population-level structural variants with Sniffles2](https://www.nature.com/articles/s41587-023-02024-y)
 * [whatshap](https://github.com/whatshap/whatshap) ⭐ 430 | 🐛 178 | 🌐 Python | 📅 2026-09-14 - \[Python/C++] - [Read-Based Phasing and Analysis of Phased Variants with WhatsHap](https://link.springer.com/protocol/10.1007/978-1-0716-2819-5_8)
-* [Clair3](https://github.com/HKU-BAL/Clair3) ⭐ 391 | 🐛 21 | 🌐 Python | 📅 2026-09-15 - \[Python/C++] - [Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data](https://www.nature.com/articles/s41467-025-67237-y)
+* [Clair3](https://github.com/HKU-BAL/Clair3) ⭐ 392 | 🐛 21 | 🌐 Python | 📅 2026-09-15 - \[Python/C++] - [Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data](https://www.nature.com/articles/s41467-025-67237-y)
 
 ### Modification analysis
 
 #### DNA modification analysis
 
 * [nanopolish call-methylation](https://github.com/jts/nanopolish) ⭐ 602 | 🐛 94 | 🌐 C++ | 📅 2023-08-05 - \[C++] - [Detecting DNA cytosine methylation using nanopore sequencing](https://www.nature.com/articles/nmeth.4184).
-* [modkit](https://github.com/nanoporetech/modkit) ⭐ 274 | 🐛 325 | 🌐 Rust | 📅 2026-07-14 - \[Rust] - Extract modified base calls from dorado BAM output to bedMethyl format, also calculate DMRs
+* [modkit](https://github.com/nanoporetech/modkit) ⭐ 274 | 🐛 326 | 🌐 Rust | 📅 2026-07-14 - \[Rust] - Extract modified base calls from dorado BAM output to bedMethyl format, also calculate DMRs
 * [f5c call-methylation](https://github.com/hasindu2008/f5c) ⭐ 166 | 🐛 1 | 🌐 C | 📅 2026-08-21 - \[C/C++/CUDA] - [GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03697-x)
 * [DeepSignals](https://github.com/bioinfomaticsCSU/deepsignal) ⭐ 119 | 🐛 13 | 🌐 Python | 📅 2023-06-04 - \[Python] - [DeepSignal: detecting DNA methylation state from Nanopore sequencing reads using deep-learning](https://academic.oup.com/bioinformatics/article/35/22/4586/5474907).
 * [signalAlign](https://github.com/ArtRand/signalAlign) ⭐ 47 | 🐛 15 | 🌐 C | 📅 2017-04-10 - \[C] - [Mapping DNA methylation with high-throughput nanopore sequencing](https://www.nature.com/articles/nmeth.4189).
@@ -120,7 +120,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ##### RNA004 Chemistry Compatible Tools
 
-* [Dorado](https://github.com/nanoporetech/dorado) ⭐ 875 | 🐛 95 | 🌐 C++ | 📅 2026-09-03 - \[C++] - [Supports calling 8 different RNA modifications: inosine, m6A, 2′OmeA on A; pseU, 2′OmeU on U; m5C, 2′OmeC on C; and 2′OmeG on G as of May 2025](https://software-docs.nanoporetech.com/dorado/1.4.0/models/list/)
+* [Dorado](https://github.com/nanoporetech/dorado) ⭐ 875 | 🐛 94 | 🌐 C++ | 📅 2026-09-03 - \[C++] - [Supports calling 8 different RNA modifications: inosine, m6A, 2′OmeA on A; pseU, 2′OmeU on U; m5C, 2′OmeC on C; and 2′OmeG on G as of May 2025](https://software-docs.nanoporetech.com/dorado/1.4.0/models/list/)
 * [m6anet](https://github.com/GoekeLab/m6anet) ⭐ 134 | 🐛 27 | 🌐 Python | 📅 2025-05-19 - \[Python] - [Detection of m6A from direct RNA sequencing using a multiple instance learning framework](https://www.nature.com/articles/s41592-022-01666-1).
 * [SingleMod](https://github.com/xieyy46/SingleMod-v1) ⭐ 14 | 🐛 10 | 🌐 Python | 📅 2025-06-10 - \[Python] - [Single-molecule direct RNA sequencing reveals the shaping of epitranscriptome across multiple species](https://www.nature.com/articles/s41467-025-60447-4)
 * [MoDorado](https://github.com/KleistLab/MoDorado) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-09-16 - \[Python] - [MoDorado: enhanced detection of tRNA modifications in nanopore sequencing by off-label use of modification callers](https://academic.oup.com/nar/article/53/15/gkaf795/8237893)
@@ -165,7 +165,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 * [bambu](https://github.com/GoekeLab/bambu) ⭐ 259 | 🐛 58 | 🌐 R | 📅 2026-09-02 - \[R] - [Context-Aware Transcript Quantification from Long Read RNA-Seq data with Bambu](https://rdcu.be/deluQ)
 * [FLAIR](https://github.com/BrooksLabUCSC/FLAIR) ⭐ 257 | 🐛 143 | 🌐 Python | 📅 2026-09-08 - \[Python] - [Full-Length Alternative Isoform analysis of RNA](https://www.nature.com/articles/s41467-020-15171-6)
-* [IsoQuant](https://github.com/ablab/IsoQuant) ⭐ 239 | 🐛 19 | 🌐 Python | 📅 2026-09-17 - \[Python] - [Accurate isoform discovery with IsoQuant using long reads](https://www.nature.com/articles/s41587-022-01565-y)
+* [IsoQuant](https://github.com/ablab/IsoQuant) ⭐ 239 | 🐛 21 | 🌐 Python | 📅 2026-09-18 - \[Python] - [Accurate isoform discovery with IsoQuant using long reads](https://www.nature.com/articles/s41587-022-01565-y)
 * [TALON](https://github.com/mortazavilab/TALON) ⭐ 162 | 🐛 33 | 🌐 Python | 📅 2024-01-25 - \[Python] - [Python package for identifying and quantifying known and novel genes/isoforms in long-read transcriptome data sets](https://www.biorxiv.org/content/10.1101/672931v2) **Run before** [TranscriptClean](https://github.com/mortazavilab/TranscriptClean) ⭐ 72 | 🐛 14 | 🌐 Python | 📅 2024-01-31
 * [RNAbloom2](https://github.com/bcgsc/RNA-Bloom) ⭐ 112 | 🐛 13 | 🌐 Java | 📅 2026-03-13 - \[Java] - [Reference-free assembly of long-read transcriptome sequencing data with RNA-Bloom2](https://www.nature.com/articles/s41467-023-38553-y)
 * [RATTLE](https://github.com/comprna/RATTLE/) ⭐ 63 | 🐛 26 | 🌐 C++ | 📅 2024-02-15 - \[C++] - [RATTLE: reference-free reconstruction and quantification of transcriptomes from Nanopore sequencing](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02715-w)
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 507,012 | 🐛 106 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 507,012 | 🐛 106 | 📅 2026-09-02.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 507,352 | 🐛 106 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 507,352 | 🐛 106 | 📅 2026-09-02.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
