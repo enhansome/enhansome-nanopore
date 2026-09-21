@@ -219,7 +219,7 @@
                 "open_issues": 18,
                 "owner": "wdecoster",
                 "repo": "NanoPlot",
-                "stars": 560,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -763,7 +763,7 @@
                 "id": 276673862,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T11:11:30Z",
+                "last_commit": "2026-09-21T14:35:25Z",
                 "open_issues": 178,
                 "owner": "whatshap",
                 "repo": "whatshap",
@@ -1071,7 +1071,7 @@
                         "open_issues": 10,
                         "owner": "xieyy46",
                         "repo": "SingleMod-v1",
-                        "stars": 14,
+                        "stars": 15,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:14:14.507Z",
+    "last_updated": "2026-09-21T15:21:29.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
