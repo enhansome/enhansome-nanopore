@@ -738,7 +738,7 @@
                 "open_issues": 44,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 680,
+                "stars": 681,
                 "topics": [
                   "bioconda",
                   "bioinformatics",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:43.584Z",
+    "last_updated": "2026-10-03T13:57:18.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
