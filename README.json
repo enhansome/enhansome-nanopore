@@ -23,7 +23,7 @@
                     "open_issues": 97,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 877,
+                    "stars": 879,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -738,7 +738,7 @@
                 "open_issues": 44,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 681,
+                "stars": 682,
                 "topics": [
                   "bioconda",
                   "bioinformatics",
@@ -785,7 +785,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-01T17:33:50Z",
-                "open_issues": 24,
+                "open_issues": 26,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 392,
@@ -858,7 +858,7 @@
                     "open_issues": 328,
                     "owner": "nanoporetech",
                     "repo": "modkit",
-                    "stars": 276,
+                    "stars": 277,
                     "topics": [
                       "methylation",
                       "modified-bases",
@@ -1024,7 +1024,7 @@
                         "open_issues": 97,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 877,
+                        "stars": 879,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1600,7 +1600,7 @@
                     "open_issues": 31,
                     "owner": "nanoporetech",
                     "repo": "medaka",
-                    "stars": 528,
+                    "stars": 529,
                     "topics": [
                       "medaka",
                       "nanopore"
@@ -2030,7 +2030,7 @@
                     "open_issues": 39,
                     "owner": "BirolLab",
                     "repo": "NanoSim",
-                    "stars": 312,
+                    "stars": 313,
                     "topics": [
                       "genome",
                       "nanopore-sequencing",
@@ -2106,7 +2106,7 @@
             "open_issues": 67,
             "owner": "nf-core",
             "repo": "nanoseq",
-            "stars": 231,
+            "stars": 232,
             "topics": [
               "alignment",
               "demultiplexing",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:57:18.818Z",
+    "last_updated": "2026-10-04T14:25:40.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
@@ -2306,7 +2306,7 @@
       "open_issues": 0,
       "owner": "GoekeLab",
       "repo": "awesome-nanopore",
-      "stars": 331,
+      "stars": 332,
       "topics": [
         "awesome-list",
         "bioinformatics",
