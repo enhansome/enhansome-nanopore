@@ -268,7 +268,7 @@
                 "open_issues": 77,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2251,
+                "stars": 2252,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -349,7 +349,7 @@
                     "open_issues": 16,
                     "owner": "LooseLab",
                     "repo": "readfish",
-                    "stars": 198,
+                    "stars": 199,
                     "topics": [
                       "adaptive-sampling",
                       "bioinformatics",
@@ -1551,7 +1551,7 @@
                     "open_issues": 0,
                     "owner": "rrwick",
                     "repo": "Autocycler",
-                    "stars": 239,
+                    "stars": 240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1572,7 +1572,7 @@
                     "open_issues": 0,
                     "owner": "paoloshasta",
                     "repo": "shasta",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1656,10 +1656,10 @@
                     "language": "R",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-02T03:49:46Z",
-                    "open_issues": 56,
+                    "open_issues": 57,
                     "owner": "GoekeLab",
                     "repo": "bambu",
-                    "stars": 259,
+                    "stars": 258,
                     "topics": [
                       "bambu",
                       "bioconductor",
@@ -1709,7 +1709,7 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T17:27:59Z",
+                    "last_commit": "2026-10-06T09:45:12Z",
                     "open_issues": 21,
                     "owner": "ablab",
                     "repo": "IsoQuant",
@@ -1747,7 +1747,7 @@
                     "open_issues": 33,
                     "owner": "mortazavilab",
                     "repo": "TALON",
-                    "stars": 163,
+                    "stars": 162,
                     "topics": [
                       "oxford-nanopore",
                       "pacbio",
@@ -2027,7 +2027,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-03-12T19:53:24Z",
-                    "open_issues": 39,
+                    "open_issues": 38,
                     "owner": "BirolLab",
                     "repo": "NanoSim",
                     "stars": 313,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T17:27:04.588Z",
+    "last_updated": "2026-10-06T11:07:39.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
