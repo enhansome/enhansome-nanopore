@@ -219,7 +219,7 @@
                 "open_issues": 18,
                 "owner": "wdecoster",
                 "repo": "NanoPlot",
-                "stars": 560,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -735,10 +735,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T16:21:12Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 682,
+                "stars": 683,
                 "topics": [
                   "bioconda",
                   "bioinformatics",
@@ -1709,7 +1709,7 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T09:45:12Z",
+                    "last_commit": "2026-10-06T11:15:05Z",
                     "open_issues": 21,
                     "owner": "ablab",
                     "repo": "IsoQuant",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:07:39.729Z",
+    "last_updated": "2026-10-06T15:28:57.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",

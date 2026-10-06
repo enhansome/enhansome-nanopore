@@ -58,7 +58,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ### QC, preprocessing
 
-* [NanoPlot](https://github.com/wdecoster/nanoplot) ⭐ 560 | 🐛 18 | 🌐 HTML | 📅 2026-10-01 - \[HTML/Python] - [QC plotting tool for Nanopore reads](https://academic.oup.com/bioinformatics/article/39/5/btad311/7160911?login=false)
+* [NanoPlot](https://github.com/wdecoster/nanoplot) ⭐ 561 | 🐛 18 | 🌐 HTML | 📅 2026-10-01 - \[HTML/Python] - [QC plotting tool for Nanopore reads](https://academic.oup.com/bioinformatics/article/39/5/btad311/7160911?login=false)
 * [Cramino](https://github.com/wdecoster/cramino) ⭐ 190 | 🐛 3 | 🌐 Rust | 📅 2026-10-01 - \[Rust] - A tool for quick quality assessment of cram and bam files, intended for long read sequencing
 
 ### Alignment
@@ -99,7 +99,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ### Variant, SV calling, Phasing
 
-* [Sniffles](https://github.com/fritzsedlazeck/sniffles) ⭐ 682 | 🐛 44 | 🌐 Python | 📅 2026-09-10 - \[Python] - [Detection of mosaic and population-level structural variants with Sniffles2](https://www.nature.com/articles/s41587-023-02024-y)
+* [Sniffles](https://github.com/fritzsedlazeck/sniffles) ⭐ 683 | 🐛 45 | 🌐 Python | 📅 2026-09-10 - \[Python] - [Detection of mosaic and population-level structural variants with Sniffles2](https://www.nature.com/articles/s41587-023-02024-y)
 * [whatshap](https://github.com/whatshap/whatshap) ⭐ 430 | 🐛 177 | 🌐 Python | 📅 2026-09-24 - \[Python/C++] - [Read-Based Phasing and Analysis of Phased Variants with WhatsHap](https://link.springer.com/protocol/10.1007/978-1-0716-2819-5_8)
 * [Clair3](https://github.com/HKU-BAL/Clair3) ⭐ 392 | 🐛 25 | 🌐 Python | 📅 2026-10-05 - \[Python/C++] - [Clair3-RNA: a deep learning-based small variant caller for long-read RNA sequencing data](https://www.nature.com/articles/s41467-025-67237-y)
 
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 515,373 | 🐛 106 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 515,373 | 🐛 106 | 📅 2026-09-02.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 515,496 | 🐛 106 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 515,496 | 🐛 106 | 📅 2026-09-02.
 
 ## Contact
 
