@@ -268,7 +268,7 @@
                 "open_issues": 77,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2252,
+                "stars": 2253,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -738,7 +738,7 @@
                 "open_issues": 45,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 683,
+                "stars": 684,
                 "topics": [
                   "bioconda",
                   "bioinformatics",
@@ -1530,7 +1530,7 @@
                     "open_issues": 20,
                     "owner": "marbl",
                     "repo": "verkko",
-                    "stars": 420,
+                    "stars": 421,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1688,8 +1688,8 @@
                     "id": 136390187,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-30T23:54:31Z",
-                    "open_issues": 145,
+                    "last_commit": "2026-10-07T05:13:54Z",
+                    "open_issues": 147,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
                     "stars": 258,
@@ -2102,7 +2102,7 @@
             "id": 207292537,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-09-11T21:43:40Z",
+            "last_commit": "2026-10-07T13:08:51Z",
             "open_issues": 67,
             "owner": "nf-core",
             "repo": "nanoseq",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:28:57.667Z",
+    "last_updated": "2026-10-07T15:48:21.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
