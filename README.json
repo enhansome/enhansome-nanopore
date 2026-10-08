@@ -23,7 +23,7 @@
                     "open_issues": 97,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 880,
+                    "stars": 879,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -49,7 +49,7 @@
                     "open_issues": 6,
                     "owner": "nanoporetech",
                     "repo": "bonito",
-                    "stars": 436,
+                    "stars": 435,
                     "topics": [
                       "basecalling",
                       "nanopore",
@@ -268,7 +268,7 @@
                 "open_issues": 77,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2253,
+                "stars": 2254,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -294,7 +294,7 @@
                 "open_issues": 37,
                 "owner": "marbl",
                 "repo": "Winnowmap",
-                "stars": 331,
+                "stars": 332,
                 "topics": [
                   "genome-analysis",
                   "nanopore",
@@ -489,7 +489,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 603,
+                    "stars": 602,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -830,7 +830,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 603,
+                    "stars": 602,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -1024,7 +1024,7 @@
                         "open_issues": 97,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 880,
+                        "stars": 879,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1688,8 +1688,8 @@
                     "id": 136390187,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-07T05:13:54Z",
-                    "open_issues": 147,
+                    "last_commit": "2026-10-08T13:45:08Z",
+                    "open_issues": 145,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
                     "stars": 258,
@@ -1709,11 +1709,11 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T11:15:05Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-10-08T15:23:31Z",
+                    "open_issues": 22,
                     "owner": "ablab",
                     "repo": "IsoQuant",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": [
                       "bioinformatics",
                       "fusion-genes",
@@ -1884,7 +1884,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 603,
+                    "stars": 602,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -2106,7 +2106,7 @@
             "open_issues": 67,
             "owner": "nf-core",
             "repo": "nanoseq",
-            "stars": 232,
+            "stars": 231,
             "topics": [
               "alignment",
               "demultiplexing",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:48:21.877Z",
+    "last_updated": "2026-10-08T15:53:19.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
