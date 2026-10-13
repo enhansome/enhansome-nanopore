@@ -23,7 +23,7 @@
                     "open_issues": 97,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 879,
+                    "stars": 881,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -219,7 +219,7 @@
                 "open_issues": 18,
                 "owner": "wdecoster",
                 "repo": "NanoPlot",
-                "stars": 561,
+                "stars": 562,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -265,10 +265,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-19T22:40:40Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2253,
+                "stars": 2255,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -855,7 +855,7 @@
                     "language": "Rust",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-14T23:37:18Z",
-                    "open_issues": 329,
+                    "open_issues": 330,
                     "owner": "nanoporetech",
                     "repo": "modkit",
                     "stars": 278,
@@ -1024,7 +1024,7 @@
                         "open_issues": 97,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 879,
+                        "stars": 881,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1509,7 +1509,7 @@
                     "open_issues": 32,
                     "owner": "mikolmogorov",
                     "repo": "Flye",
-                    "stars": 953,
+                    "stars": 954,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1551,7 +1551,7 @@
                     "open_issues": 1,
                     "owner": "rrwick",
                     "repo": "Autocycler",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1689,7 +1689,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-09T16:22:14Z",
-                    "open_issues": 145,
+                    "open_issues": 146,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
                     "stars": 258,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:14:52.462Z",
+    "last_updated": "2026-10-13T16:28:54.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
