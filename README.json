@@ -20,7 +20,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-03T16:00:49Z",
-                    "open_issues": 97,
+                    "open_issues": 93,
                     "owner": "nanoporetech",
                     "repo": "dorado",
                     "stars": 881,
@@ -268,7 +268,7 @@
                 "open_issues": 78,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2257,
+                "stars": 2260,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -349,7 +349,7 @@
                     "open_issues": 16,
                     "owner": "LooseLab",
                     "repo": "readfish",
-                    "stars": 199,
+                    "stars": 200,
                     "topics": [
                       "adaptive-sampling",
                       "bioinformatics",
@@ -767,7 +767,7 @@
                 "open_issues": 177,
                 "owner": "whatshap",
                 "repo": "whatshap",
-                "stars": 431,
+                "stars": 432,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -788,7 +788,7 @@
                 "open_issues": 25,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "computational-biology",
                   "deep-learning",
@@ -1021,7 +1021,7 @@
                         "language": "C++",
                         "license": "NOASSERTION",
                         "last_commit": "2026-09-03T16:00:49Z",
-                        "open_issues": 97,
+                        "open_issues": 93,
                         "owner": "nanoporetech",
                         "repo": "dorado",
                         "stars": 881,
@@ -1509,7 +1509,7 @@
                     "open_issues": 32,
                     "owner": "mikolmogorov",
                     "repo": "Flye",
-                    "stars": 954,
+                    "stars": 955,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1600,7 +1600,7 @@
                     "open_issues": 32,
                     "owner": "nanoporetech",
                     "repo": "medaka",
-                    "stars": 529,
+                    "stars": 530,
                     "topics": [
                       "medaka",
                       "nanopore"
@@ -1624,7 +1624,7 @@
                     "open_issues": 49,
                     "owner": "lbcb-sci",
                     "repo": "herro",
-                    "stars": 264,
+                    "stars": 265,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1659,7 +1659,7 @@
                     "open_issues": 58,
                     "owner": "GoekeLab",
                     "repo": "bambu",
-                    "stars": 259,
+                    "stars": 260,
                     "topics": [
                       "bambu",
                       "bioconductor",
@@ -1709,11 +1709,11 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-14T13:53:13Z",
+                    "last_commit": "2026-10-14T15:55:38Z",
                     "open_issues": 21,
                     "owner": "ablab",
                     "repo": "IsoQuant",
-                    "stars": 242,
+                    "stars": 243,
                     "topics": [
                       "bioinformatics",
                       "fusion-genes",
@@ -2102,7 +2102,7 @@
             "id": 207292537,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-10-07T13:08:51Z",
+            "last_commit": "2026-10-15T12:22:11Z",
             "open_issues": 67,
             "owner": "nf-core",
             "repo": "nanoseq",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:05:09.426Z",
+    "last_updated": "2026-10-15T13:43:30.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
@@ -2306,7 +2306,7 @@
       "open_issues": 0,
       "owner": "GoekeLab",
       "repo": "awesome-nanopore",
-      "stars": 332,
+      "stars": 333,
       "topics": [
         "awesome-list",
         "bioinformatics",
