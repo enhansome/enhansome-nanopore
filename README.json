@@ -349,7 +349,7 @@
                     "open_issues": 16,
                     "owner": "LooseLab",
                     "repo": "readfish",
-                    "stars": 200,
+                    "stars": 199,
                     "topics": [
                       "adaptive-sampling",
                       "bioinformatics",
@@ -735,7 +735,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T16:21:12Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
                 "stars": 684,
@@ -858,7 +858,7 @@
                     "open_issues": 331,
                     "owner": "nanoporetech",
                     "repo": "modkit",
-                    "stars": 279,
+                    "stars": 280,
                     "topics": [
                       "methylation",
                       "modified-bases",
@@ -931,7 +931,7 @@
                     "open_issues": 15,
                     "owner": "ArtRand",
                     "repo": "signalAlign",
-                    "stars": 47,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1600,7 +1600,7 @@
                     "open_issues": 32,
                     "owner": "nanoporetech",
                     "repo": "medaka",
-                    "stars": 530,
+                    "stars": 528,
                     "topics": [
                       "medaka",
                       "nanopore"
@@ -2106,7 +2106,7 @@
             "open_issues": 68,
             "owner": "nf-core",
             "repo": "nanoseq",
-            "stars": 231,
+            "stars": 232,
             "topics": [
               "alignment",
               "demultiplexing",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:28:21.429Z",
+    "last_updated": "2026-10-18T12:48:33.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
