@@ -23,7 +23,7 @@
                     "open_issues": 93,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 881,
+                    "stars": 882,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -219,7 +219,7 @@
                 "open_issues": 18,
                 "owner": "wdecoster",
                 "repo": "NanoPlot",
-                "stars": 563,
+                "stars": 564,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -734,8 +734,8 @@
                 "id": 44923521,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T16:21:12Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-18T15:02:59Z",
+                "open_issues": 44,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
                 "stars": 684,
@@ -788,7 +788,7 @@
                 "open_issues": 25,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
-                "stars": 394,
+                "stars": 395,
                 "topics": [
                   "computational-biology",
                   "deep-learning",
@@ -855,7 +855,7 @@
                     "language": "Rust",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-14T23:37:18Z",
-                    "open_issues": 331,
+                    "open_issues": 329,
                     "owner": "nanoporetech",
                     "repo": "modkit",
                     "stars": 280,
@@ -1024,7 +1024,7 @@
                         "open_issues": 93,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 881,
+                        "stars": 882,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1624,7 +1624,7 @@
                     "open_issues": 49,
                     "owner": "lbcb-sci",
                     "repo": "herro",
-                    "stars": 265,
+                    "stars": 266,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1709,8 +1709,8 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-16T22:13:45Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-10-18T22:43:55Z",
+                    "open_issues": 20,
                     "owner": "ablab",
                     "repo": "IsoQuant",
                     "stars": 243,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:48:33.054Z",
+    "last_updated": "2026-10-19T15:53:47.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
