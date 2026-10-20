@@ -23,7 +23,7 @@
                     "open_issues": 93,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 882,
+                    "stars": 881,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -49,7 +49,7 @@
                     "open_issues": 6,
                     "owner": "nanoporetech",
                     "repo": "bonito",
-                    "stars": 435,
+                    "stars": 434,
                     "topics": [
                       "basecalling",
                       "nanopore",
@@ -219,7 +219,7 @@
                 "open_issues": 18,
                 "owner": "wdecoster",
                 "repo": "NanoPlot",
-                "stars": 564,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -268,7 +268,7 @@
                 "open_issues": 78,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2260,
+                "stars": 2259,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -489,7 +489,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 602,
+                    "stars": 601,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -583,7 +583,7 @@
                     "open_issues": 30,
                     "owner": "skovaka",
                     "repo": "uncalled4",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -738,7 +738,7 @@
                 "open_issues": 44,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 684,
+                "stars": 685,
                 "topics": [
                   "bioconda",
                   "bioinformatics",
@@ -788,7 +788,7 @@
                 "open_issues": 25,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
-                "stars": 395,
+                "stars": 394,
                 "topics": [
                   "computational-biology",
                   "deep-learning",
@@ -830,7 +830,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 602,
+                    "stars": 601,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -858,7 +858,7 @@
                     "open_issues": 329,
                     "owner": "nanoporetech",
                     "repo": "modkit",
-                    "stars": 280,
+                    "stars": 279,
                     "topics": [
                       "methylation",
                       "modified-bases",
@@ -904,7 +904,7 @@
                     "open_issues": 13,
                     "owner": "bioinfomaticsCSU",
                     "repo": "deepsignal",
-                    "stars": 119,
+                    "stars": 118,
                     "topics": [
                       "bioinformatics",
                       "epigenetics",
@@ -931,7 +931,7 @@
                     "open_issues": 15,
                     "owner": "ArtRand",
                     "repo": "signalAlign",
-                    "stars": 48,
+                    "stars": 47,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -952,7 +952,7 @@
                     "open_issues": 13,
                     "owner": "al-mcintyre",
                     "repo": "mCaller",
-                    "stars": 47,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -973,7 +973,7 @@
                     "open_issues": 12,
                     "owner": "WGLab",
                     "repo": "NanoMod",
-                    "stars": 38,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1024,7 +1024,7 @@
                         "open_issues": 93,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 882,
+                        "stars": 881,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1509,7 +1509,7 @@
                     "open_issues": 32,
                     "owner": "mikolmogorov",
                     "repo": "Flye",
-                    "stars": 955,
+                    "stars": 954,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1709,7 +1709,7 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-18T22:43:55Z",
+                    "last_commit": "2026-10-20T12:36:48Z",
                     "open_issues": 20,
                     "owner": "ablab",
                     "repo": "IsoQuant",
@@ -1884,7 +1884,7 @@
                     "open_issues": 94,
                     "owner": "jts",
                     "repo": "nanopolish",
-                    "stars": 602,
+                    "stars": 601,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -1967,7 +1967,7 @@
                     "open_issues": 1,
                     "owner": "physnano",
                     "repo": "rRNA_nanoSHAPE",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -2237,7 +2237,7 @@
             "open_issues": 47,
             "owner": "nanoporetech",
             "repo": "megalodon",
-            "stars": 205,
+            "stars": 204,
             "topics": [
               "basecalling",
               "epigenetics",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:53:47.289Z",
+    "last_updated": "2026-10-20T13:52:42.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
