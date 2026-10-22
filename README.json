@@ -517,7 +517,7 @@
                     "open_issues": 1,
                     "owner": "hasindu2008",
                     "repo": "f5c",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -538,7 +538,7 @@
                     "open_issues": 1,
                     "owner": "hasindu2008",
                     "repo": "f5c",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -784,8 +784,8 @@
                 "id": 352969947,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-05T13:05:36Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-22T11:32:28Z",
+                "open_issues": 27,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 394,
@@ -858,7 +858,7 @@
                     "open_issues": 329,
                     "owner": "nanoporetech",
                     "repo": "modkit",
-                    "stars": 279,
+                    "stars": 280,
                     "topics": [
                       "methylation",
                       "modified-bases",
@@ -883,7 +883,7 @@
                     "open_issues": 1,
                     "owner": "hasindu2008",
                     "repo": "f5c",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1689,7 +1689,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-16T22:35:13Z",
-                    "open_issues": 147,
+                    "open_issues": 152,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
                     "stars": 258,
@@ -1709,11 +1709,11 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-20T19:22:45Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-10-22T12:17:59Z",
+                    "open_issues": 10,
                     "owner": "ablab",
                     "repo": "IsoQuant",
-                    "stars": 243,
+                    "stars": 244,
                     "topics": [
                       "bioinformatics",
                       "fusion-genes",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:09:44.985Z",
+    "last_updated": "2026-10-22T14:07:47.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
