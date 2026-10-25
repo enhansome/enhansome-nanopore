@@ -127,14 +127,14 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ##### RNA002 Chemistry Compatible Tools
 
-* [xPore](https://github.com/GoekeLab/xpore) ⭐ 171 | 🐛 33 | 🌐 Python | 📅 2026-08-25 - \[Python] - [Identification of differential RNA modifications from nanopore direct RNA sequencing with xPore](https://doi.org/10.1038/s41587-021-00949-w).
+* [xPore](https://github.com/GoekeLab/xpore) ⭐ 173 | 🐛 33 | 🌐 Python | 📅 2026-08-25 - \[Python] - [Identification of differential RNA modifications from nanopore direct RNA sequencing with xPore](https://doi.org/10.1038/s41587-021-00949-w).
 * [m6anet](https://github.com/GoekeLab/m6anet) ⭐ 133 | 🐛 27 | 🌐 Python | 📅 2025-05-19 - \[Python] - [Detection of m6A from direct RNA sequencing using a multiple instance learning framework](https://www.nature.com/articles/s41592-022-01666-1).
-* [EpiNano](https://github.com/novoalab/EpiNano) ⭐ 118 | 🐛 7 | 🌐 Python | 📅 2026-03-02 - \[Python] - [Accurate detection of m6A RNA modifications in native RNA sequences](https://www.nature.com/articles/s41467-019-11713-9).
+* [EpiNano](https://github.com/novoalab/EpiNano) ⭐ 119 | 🐛 7 | 🌐 Python | 📅 2026-03-02 - \[Python] - [Accurate detection of m6A RNA modifications in native RNA sequences](https://www.nature.com/articles/s41467-019-11713-9).
 * [nanocompore](https://github.com/tleonardi/nanocompore) ⭐ 88 | 🐛 17 | 🌐 Python | 📅 2026-08-27 - \[Python] - [RNA modifications detection by comparative Nanopore direct RNA sequencing](https://www.nature.com/articles/s41467-021-27393-3).
 * [Nanom6A](https://github.com/gaoyubang/nanom6A) ⭐ 25 | 🐛 17 | 🌐 Python | 📅 2022-12-24 - \[Python] - [Quantitative profiling of N6-methyladenosine at single-base resolution in stem-differentiating xylem of Populus trichocarpa using Nanopore direct RNA sequencing](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02241-7).
 * [nanoRMS](https://github.com/novoalab/nanoRMS) ⭐ 25 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-12-21 - \[Python] - [Quantitative profiling of pseudouridylation dynamics in native RNAs with nanopore sequencing](https://www.nature.com/articles/s41587-021-00915-6?proof=t%3B).
-* [DENA](https://github.com/weir12/DENA) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2022-10-12 - \[Python/R] - [DENA: training an authentic neural network model using Nanopore sequencing data of Arabidopsis transcripts for detection and quantification of N6-methyladenosine on RNA](https://doi.org/10.1186/s13059-021-02598-3)
-* [DRUMMER](https://github.com/DepledgeLab/DRUMMER) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2022-07-08 - \[Python] - [DRUMMER—rapid detection of RNA modifications through comparative nanopore sequencing](https://academic.oup.com/bioinformatics/article/38/11/3113/6569078).
+* [DENA](https://github.com/weir12/DENA) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2022-10-12 - \[Python/R] - [DENA: training an authentic neural network model using Nanopore sequencing data of Arabidopsis transcripts for detection and quantification of N6-methyladenosine on RNA](https://doi.org/10.1186/s13059-021-02598-3)
+* [DRUMMER](https://github.com/DepledgeLab/DRUMMER) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2022-07-08 - \[Python] - [DRUMMER—rapid detection of RNA modifications through comparative nanopore sequencing](https://academic.oup.com/bioinformatics/article/38/11/3113/6569078).
 * [nanoDoc](https://github.com/uedaLabR/nanoDoc) ⭐ 20 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-05-14 - \[Python] - [nanoDoc: RNA modification detection using Nanopore raw reads with Deep One-Class Classification](https://www.biorxiv.org/content/10.1101/2020.09.13.295089v1).
 * [MINES](https://github.com/YeoLab/MINES) ⭐ 19 | 🐛 21 | 🌐 Python | 📅 2020-11-25 - \[Python] - [Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution](https://rnajournal.cshlp.org/content/early/2019/10/17/rna.072785.119).
 * [TandemMod](https://github.com/yulab2021/TandemMod) ⭐ 19 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-03-31 - \[Python] - [Transfer learning enables identification of multiple types of RNA modifications using nanopore direct RNA sequencing](https://www.nature.com/articles/s41467-024-48437-4)
@@ -179,7 +179,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 #### RNA structure prediction
 
-* [PORE-cupine](https://github.com/awjga/PORE-cupine) ⭐ 15 | 🐛 1 | 🌐 R | 📅 2023-07-02 - \[R] - [Determination of isoform-specific RNA structure with nanopore long reads](https://www.nature.com/articles/s41587-020-0712-z).
+* [PORE-cupine](https://github.com/awjga/PORE-cupine) ⭐ 16 | 🐛 1 | 🌐 R | 📅 2023-07-02 - \[R] - [Determination of isoform-specific RNA structure with nanopore long reads](https://www.nature.com/articles/s41587-020-0712-z).
 * [nanoSHAPE](https://github.com/physnano/rRNA_nanoSHAPE) ⭐ 14 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-09-29 - \[Python] - [Direct detection of RNA modifications and structure using single molecule nanopore sequencing](https://www.biorxiv.org/content/10.1101/2020.05.31.126763v1).
 
 #### Single-cell analysis
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 523,915 | 🐛 105 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 523,915 | 🐛 105 | 📅 2026-09-02.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 524,496 | 🐛 105 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 524,496 | 🐛 105 | 📅 2026-09-02.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

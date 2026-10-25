@@ -1120,7 +1120,7 @@
                         "open_issues": 33,
                         "owner": "GoekeLab",
                         "repo": "xpore",
-                        "stars": 171,
+                        "stars": 173,
                         "topics": [
                           "genomics",
                           "machine-learning",
@@ -1173,7 +1173,7 @@
                         "open_issues": 7,
                         "owner": "novoalab",
                         "repo": "EpiNano",
-                        "stars": 118,
+                        "stars": 119,
                         "topics": [
                           "direct-rna",
                           "m6a",
@@ -1271,7 +1271,7 @@
                         "open_issues": 1,
                         "owner": "weir12",
                         "repo": "DENA",
-                        "stars": 22,
+                        "stars": 23,
                         "topics": [
                           "nanopore"
                         ]
@@ -1294,7 +1294,7 @@
                         "open_issues": 4,
                         "owner": "DepledgeLab",
                         "repo": "DRUMMER",
-                        "stars": 21,
+                        "stars": 22,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1946,7 +1946,7 @@
                     "open_issues": 1,
                     "owner": "awjga",
                     "repo": "PORE-cupine",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:56:50.800Z",
+    "last_updated": "2026-10-25T13:23:30.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
