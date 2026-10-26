@@ -20,10 +20,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-03T16:00:49Z",
-                    "open_issues": 94,
+                    "open_issues": 95,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 881,
+                    "stars": 882,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -767,7 +767,7 @@
                 "open_issues": 177,
                 "owner": "whatshap",
                 "repo": "whatshap",
-                "stars": 432,
+                "stars": 433,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -784,8 +784,8 @@
                 "id": 352969947,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-22T11:32:28Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-26T09:03:11Z",
+                "open_issues": 23,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 394,
@@ -858,7 +858,7 @@
                     "open_issues": 329,
                     "owner": "nanoporetech",
                     "repo": "modkit",
-                    "stars": 280,
+                    "stars": 281,
                     "topics": [
                       "methylation",
                       "modified-bases",
@@ -1021,10 +1021,10 @@
                         "language": "C++",
                         "license": "NOASSERTION",
                         "last_commit": "2026-09-03T16:00:49Z",
-                        "open_issues": 94,
+                        "open_issues": 95,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 881,
+                        "stars": 882,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1551,7 +1551,7 @@
                     "open_issues": 0,
                     "owner": "rrwick",
                     "repo": "Autocycler",
-                    "stars": 244,
+                    "stars": 245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1688,8 +1688,8 @@
                     "id": 136390187,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-23T17:09:18Z",
-                    "open_issues": 160,
+                    "last_commit": "2026-10-26T03:10:19Z",
+                    "open_issues": 159,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
                     "stars": 258,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:23:30.734Z",
+    "last_updated": "2026-10-26T15:30:20.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
