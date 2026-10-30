@@ -141,7 +141,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 * [Penguin](https://github.com/Janga-Lab/Penguin) ⭐ 15 | 🐛 3 | 🌐 Python | 📅 2021-11-15 - \[Python] - [Penguin: A Tool for Predicting Pseudouridine Sites in Direct RNA Nanopore Sequencing Data](https://doi.org/10.1016/j.ymeth.2022.02.005)
 * [Yanocomp](https://github.com/bartongroup/yanocomp) ⭐ 12 | 🐛 4 | 🌐 Python | 📅 2022-03-04 - \[Python] - [Yanocomp: robust prediction of m6A modifications in individual nanopore direct RNA reads](https://www.biorxiv.org/content/10.1101/2021.06.15.448494v1).
 * [DiffErr](https://github.com/bartongroup/differr_nanopore_DRS) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2020-11-27 - \[Python] - A tool for detecting modifications from Nanopore DRS errors using a low modification control.
-* [NanoNm](https://github.com/kaifuchenlab/NanoNm) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-02-10 - \[Python] - [A Machine Learning Method to detect the 2'-O-methylation(Nm) in Nanopore direct RNA-seq](https://doi.org/10.1016/j.molcel.2024.04.011)
+* [NanoNm](https://github.com/kaifuchenlab/NanoNm) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-02-10 - \[Python] - [A Machine Learning Method to detect the 2'-O-methylation(Nm) in Nanopore direct RNA-seq](https://doi.org/10.1016/j.molcel.2024.04.011)
 * [Magnipore](https://github.com/rnajena/magnipore) ⭐ 6 | 🐛 0 | 🌐 Red | 📅 2026-06-23 - \[Python] - [Magnipore: Prediction of differential single nucleotide changes in the Oxford Nanopore Technologies sequencing signal of SARS-CoV-2 samples](https://doi.org/10.1101/2023.03.17.533105)
 * [ELIGOS](https://gitlab.com/piroonj/eligos2) - \[Python] - [Decoding the epitranscriptional landscape from native RNA sequences](https://academic.oup.com/nar/article/49/2/e7/5876284).
 
@@ -164,8 +164,8 @@ List of software packages for Nanopore sequencing data analysis, including basec
 #### Transcript discovery and quantification
 
 * [bambu](https://github.com/GoekeLab/bambu) ⭐ 260 | 🐛 58 | 🌐 R | 📅 2026-10-02 - \[R] - [Context-Aware Transcript Quantification from Long Read RNA-Seq data with Bambu](https://rdcu.be/deluQ)
-* [FLAIR](https://github.com/BrooksLabUCSC/FLAIR) ⭐ 258 | 🐛 160 | 🌐 Python | 📅 2026-10-26 - \[Python] - [Full-Length Alternative Isoform analysis of RNA](https://www.nature.com/articles/s41467-020-15171-6)
-* [IsoQuant](https://github.com/ablab/IsoQuant) ⭐ 245 | 🐛 12 | 🌐 Python | 📅 2026-10-29 - \[Python] - [Accurate isoform discovery with IsoQuant using long reads](https://www.nature.com/articles/s41587-022-01565-y)
+* [FLAIR](https://github.com/BrooksLabUCSC/FLAIR) ⭐ 258 | 🐛 161 | 🌐 Python | 📅 2026-10-26 - \[Python] - [Full-Length Alternative Isoform analysis of RNA](https://www.nature.com/articles/s41467-020-15171-6)
+* [IsoQuant](https://github.com/ablab/IsoQuant) ⭐ 245 | 🐛 13 | 🌐 Python | 📅 2026-10-30 - \[Python] - [Accurate isoform discovery with IsoQuant using long reads](https://www.nature.com/articles/s41587-022-01565-y)
 * [TALON](https://github.com/mortazavilab/TALON) ⭐ 162 | 🐛 33 | 🌐 Python | 📅 2024-01-25 - \[Python] - [Python package for identifying and quantifying known and novel genes/isoforms in long-read transcriptome data sets](https://www.biorxiv.org/content/10.1101/672931v2) **Run before** [TranscriptClean](https://github.com/mortazavilab/TranscriptClean) ⭐ 73 | 🐛 14 | 🌐 Python | 📅 2024-01-31
 * [RNAbloom2](https://github.com/bcgsc/RNA-Bloom) ⭐ 112 | 🐛 13 | 🌐 Java | 📅 2026-03-13 - \[Java] - [Reference-free assembly of long-read transcriptome sequencing data with RNA-Bloom2](https://www.nature.com/articles/s41467-023-38553-y)
 * [RATTLE](https://github.com/comprna/RATTLE/) ⭐ 63 | 🐛 26 | 🌐 C++ | 📅 2024-02-15 - \[C++] - [RATTLE: reference-free reconstruction and quantification of transcriptomes from Nanopore sequencing](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02715-w)
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 526,652 | 🐛 105 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 526,652 | 🐛 105 | 📅 2026-09-02.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 527,247 | 🐛 105 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 527,247 | 🐛 105 | 📅 2026-09-02.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
