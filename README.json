@@ -265,10 +265,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-19T22:40:40Z",
-                "open_issues": 83,
+                "open_issues": 81,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2261,
+                "stars": 2262,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -294,7 +294,7 @@
                 "open_issues": 37,
                 "owner": "marbl",
                 "repo": "Winnowmap",
-                "stars": 333,
+                "stars": 332,
                 "topics": [
                   "genome-analysis",
                   "nanopore",
@@ -1688,8 +1688,8 @@
                     "id": 136390187,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-26T21:49:06Z",
-                    "open_issues": 161,
+                    "last_commit": "2026-10-30T23:31:34Z",
+                    "open_issues": 148,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
                     "stars": 258,
@@ -1709,11 +1709,11 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-30T13:35:24Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-10-30T23:45:44Z",
+                    "open_issues": 14,
                     "owner": "ablab",
                     "repo": "IsoQuant",
-                    "stars": 245,
+                    "stars": 246,
                     "topics": [
                       "bioinformatics",
                       "fusion-genes",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:22:02.629Z",
+    "last_updated": "2026-10-31T14:50:00.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
@@ -2306,7 +2306,7 @@
       "open_issues": 0,
       "owner": "GoekeLab",
       "repo": "awesome-nanopore",
-      "stars": 337,
+      "stars": 338,
       "topics": [
         "awesome-list",
         "bioinformatics",
