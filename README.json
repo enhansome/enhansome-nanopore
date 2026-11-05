@@ -23,7 +23,7 @@
                     "open_issues": 97,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 883,
+                    "stars": 885,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -349,7 +349,7 @@
                     "open_issues": 16,
                     "owner": "LooseLab",
                     "repo": "readfish",
-                    "stars": 199,
+                    "stars": 198,
                     "topics": [
                       "adaptive-sampling",
                       "bioinformatics",
@@ -1024,7 +1024,7 @@
                         "open_issues": 97,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 883,
+                        "stars": 885,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1688,7 +1688,7 @@
                     "id": 136390187,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T01:49:27Z",
+                    "last_commit": "2026-11-05T15:13:22Z",
                     "open_issues": 149,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
@@ -1709,7 +1709,7 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T15:03:35Z",
+                    "last_commit": "2026-11-05T13:24:14Z",
                     "open_issues": 15,
                     "owner": "ablab",
                     "repo": "IsoQuant",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T16:37:35.661Z",
+    "last_updated": "2026-11-05T16:52:50.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
