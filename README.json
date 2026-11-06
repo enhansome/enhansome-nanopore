@@ -268,7 +268,7 @@
                 "open_issues": 83,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2265,
+                "stars": 2267,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -784,8 +784,8 @@
                 "id": 352969947,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-02T14:33:31Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-06T10:31:06Z",
+                "open_issues": 24,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 397,
@@ -1506,10 +1506,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-04-03T20:56:14Z",
-                    "open_issues": 32,
+                    "open_issues": 40,
                     "owner": "mikolmogorov",
                     "repo": "Flye",
-                    "stars": 955,
+                    "stars": 956,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1527,10 +1527,10 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-11-03T15:04:04Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "marbl",
                     "repo": "verkko",
-                    "stars": 422,
+                    "stars": 423,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1688,11 +1688,11 @@
                     "id": 136390187,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-05T15:13:22Z",
+                    "last_commit": "2026-11-05T21:15:09Z",
                     "open_issues": 149,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
-                    "stars": 258,
+                    "stars": 259,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1710,7 +1710,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-05T13:24:14Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "ablab",
                     "repo": "IsoQuant",
                     "stars": 246,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:52:50.914Z",
+    "last_updated": "2026-11-06T16:20:08.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
@@ -2306,7 +2306,7 @@
       "open_issues": 0,
       "owner": "GoekeLab",
       "repo": "awesome-nanopore",
-      "stars": 339,
+      "stars": 340,
       "topics": [
         "awesome-list",
         "bioinformatics",
