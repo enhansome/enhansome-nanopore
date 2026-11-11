@@ -58,12 +58,12 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ### QC, preprocessing
 
-* [NanoPlot](https://github.com/wdecoster/nanoplot) ⭐ 564 | 🐛 19 | 🌐 HTML | 📅 2026-10-01 - \[HTML/Python] - [QC plotting tool for Nanopore reads](https://academic.oup.com/bioinformatics/article/39/5/btad311/7160911?login=false)
-* [Cramino](https://github.com/wdecoster/cramino) ⭐ 191 | 🐛 4 | 🌐 Rust | 📅 2026-11-02 - \[Rust] - A tool for quick quality assessment of cram and bam files, intended for long read sequencing
+* [NanoPlot](https://github.com/wdecoster/nanoplot) ⭐ 565 | 🐛 18 | 🌐 HTML | 📅 2026-11-10 - \[HTML/Python] - [QC plotting tool for Nanopore reads](https://academic.oup.com/bioinformatics/article/39/5/btad311/7160911?login=false)
+* [Cramino](https://github.com/wdecoster/cramino) ⭐ 191 | 🐛 3 | 🌐 Rust | 📅 2026-11-10 - \[Rust] - A tool for quick quality assessment of cram and bam files, intended for long read sequencing
 
 ### Alignment
 
-* [minimap2](https://github.com/lh3/minimap2) ⭐ 2,267 | 🐛 83 | 🌐 C | 📅 2026-05-19 - \[C] - [Minimap2: pairwise alignment for nucleotide sequences](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
+* [minimap2](https://github.com/lh3/minimap2) ⭐ 2,269 | 🐛 84 | 🌐 C | 📅 2026-05-19 - \[C] - [Minimap2: pairwise alignment for nucleotide sequences](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
 * [Winnowmap](https://github.com/marbl/winnowmap) ⭐ 333 | 🐛 37 | 🌐 C | 📅 2025-12-16 - \[C] - [Weighted minimizer sampling improves long read mapping](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i111/5870473)
 
 ### Signal analysis
@@ -71,7 +71,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 #### Adaptive sampling / ReadUntil Real-time mapping / signal mapping
 
 * [UNCALLED](https://github.com/skovaka/UNCALLED) ⭐ 531 | 🐛 20 | 🌐 C++ | 📅 2024-03-05 - \[C++] - [Targeted nanopore sequencing by real-time mapping of raw electrical signal with UNCALLED](https://www.nature.com/articles/s41587-020-0731-9)
-* [Readfish](https://github.com/LooseLab/readfish) ⭐ 198 | 🐛 17 | 🌐 Python | 📅 2026-10-29 - \[Python] - [Readfish enables targeted nanopore sequencing of gigabase-sized genomes](https://www.nature.com/articles/s41587-020-00746-x)
+* [Readfish](https://github.com/LooseLab/readfish) ⭐ 198 | 🐛 16 | 🌐 Python | 📅 2026-10-29 - \[Python] - [Readfish enables targeted nanopore sequencing of gigabase-sized genomes](https://www.nature.com/articles/s41587-020-00746-x)
 * [OpenDBA](https://github.com/nodrogluap/OpenDBA) ⭐ 70 | 🐛 3 | 🌐 C++ | 📅 2025-07-24 - \[C++/CUDA] - [GPU-accelerated Dynamic Time Warp (DTW) Barycenter Averaging](https://github.com/nodrogluap/OpenDBA#how-do-i-use-this-for-oxford-nanopore-data) ⭐ 70 | 🐛 3 | 🌐 C++ | 📅 2025-07-24
 * [Sigmap](https://github.com/haowenz/sigmap) ⭐ 32 | 🐛 4 | 🌐 C++ | 📅 2021-11-07 - \[C/C++] - [Real-time mapping of nanopore raw signals](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i477/6319675)
 * [SquiggleNet](https://github.com/welch-lab/SquiggleNet) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-01-18 - \[Python] - [Real-Time, Direct Classification of Nanopore Signals with SquiggleNet](https://www.biorxiv.org/content/10.1101/2021.01.15.426907v2)
@@ -151,7 +151,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 * [Flye](https://github.com/fenderglass/Flye) ⭐ 956 | 🐛 42 | 🌐 C | 📅 2026-04-03 - \[C++] - Single molecule sequence assembler with good polishing capabilities
 * [Verkko](https://github.com/marbl/verkko) ⭐ 423 | 🐛 18 | 🌐 Python | 📅 2026-11-10 - \[Python] - hybrid genome assembly pipeline developed for telomere-to-telomere assembly of accurate long reads (PacBio HiFi, Oxford Nanopore Duplex, HERRO or Hifiasm corrected Oxford Nanopore Simplex) and Oxford Nanopore ultra-long reads. [Telomere-to-telomere assembly of diploid chromosomes with Verkko](https://www.nature.com/articles/s41587-023-01662-6)
-* [Autocycler](https://github.com/rrwick/Autocycler) ⭐ 246 | 🐛 0 | 🌐 Rust | 📅 2026-10-08 - \[Rust] - [Autocycler: long-read consensus assembly for bacterial genomes](https://academic.oup.com/bioinformatics/article/41/9/btaf474/8242761)
+* [Autocycler](https://github.com/rrwick/Autocycler) ⭐ 246 | 🐛 0 | 🌐 Rust | 📅 2026-11-11 - \[Rust] - [Autocycler: long-read consensus assembly for bacterial genomes](https://academic.oup.com/bioinformatics/article/41/9/btaf474/8242761)
 * [Shasta](https://github.com/paoloshasta/shasta) ⭐ 90 | 🐛 0 | 🌐 C++ | 📅 2026-06-29 - \[C] - Very fast and capable nanopore assembler
 
 #### Polishing, Error correction
@@ -198,7 +198,7 @@ List of software packages for Nanopore sequencing data analysis, including basec
 
 ## Pipelines
 
-* [nf-core/nanoseq](https://github.com/nf-core/nanoseq) ⭐ 232 | 🐛 69 | 🌐 Nextflow | 📅 2026-10-26 - \[Nextflow] - [A systematic benchmark of Nanopore long read RNA sequencing for transcript level analysis in human cell lines](https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1) (Not yet updated for ONT's latest chemistry)
+* [nf-core/nanoseq](https://github.com/nf-core/nanoseq) ⭐ 232 | 🐛 70 | 🌐 Nextflow | 📅 2026-11-11 - \[Nextflow] - [A systematic benchmark of Nanopore long read RNA sequencing for transcript level analysis in human cell lines](https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1) (Not yet updated for ONT's latest chemistry)
 * [bambu-pipe](https://github.com/GoekeLab/bambu-pipe) ⭐ 26 | 🐛 4 | 🌐 Nextflow | 📅 2026-10-12 - \[Nextflow] - [Isoform-level discovery, quantification and fusion analysis from single-cell and spatial long-read RNA-seq data with Bambu-Clump](https://www.biorxiv.org/content/10.1101/2024.12.30.630828v1.full)
 * [MOP2](https://github.com/biocorecrg/MOP2) ⭐ 23 | 🐛 21 | 🌐 Nextflow | 📅 2024-12-04 - \[Nextflow] - [MasterOfPores: A Workflow for the Analysis of Oxford Nanopore Direct RNA Sequencing Datasets](https://www.frontiersin.org/articles/10.3389/fgene.2020.00211/full)
 
@@ -228,7 +228,7 @@ Wan, Y.K., Hendra, C., Pratanwanich, P.N. & Göke, J. Beyond sequencing: machine
 
 ## What is an awesome list?
 
-According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 534,687 | 🐛 103 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 534,687 | 🐛 103 | 📅 2026-09-02.
+According to [the official awesome Github repository](https://github.com/sindresorhus/awesome) ⭐ 535,177 | 🐛 103 | 📅 2026-09-02, an awesome list on GitHub is "a curation of actual awesome stuff", so an awesome list only includes items that has been researched by a contributor who would personally recommend the items. To learn more, please read [the official awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 535,177 | 🐛 103 | 📅 2026-09-02.
 
 ## Contact
 
@@ -236,4 +236,4 @@ This repository is maintained by [Clare Robinson](https://github.com/ClareRobin)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
