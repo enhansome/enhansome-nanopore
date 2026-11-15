@@ -268,7 +268,7 @@
                 "open_issues": 84,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2269,
+                "stars": 2268,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:22:06.784Z",
+    "last_updated": "2026-11-15T15:53:57.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
