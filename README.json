@@ -268,7 +268,7 @@
                 "open_issues": 84,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2268,
+                "stars": 2269,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -785,7 +785,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-11-10T04:59:24Z",
-                "open_issues": 21,
+                "open_issues": 12,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 399,
@@ -855,7 +855,7 @@
                     "language": "Rust",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-14T23:37:18Z",
-                    "open_issues": 332,
+                    "open_issues": 333,
                     "owner": "nanoporetech",
                     "repo": "modkit",
                     "stars": 281,
@@ -1689,7 +1689,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-08T14:16:42Z",
-                    "open_issues": 141,
+                    "open_issues": 142,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
                     "stars": 259,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:53:57.898Z",
+    "last_updated": "2026-11-16T18:57:18.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
