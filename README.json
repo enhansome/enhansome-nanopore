@@ -23,7 +23,7 @@
                     "open_issues": 100,
                     "owner": "nanoporetech",
                     "repo": "dorado",
-                    "stars": 887,
+                    "stars": 888,
                     "topics": [
                       "basecalling",
                       "genomics",
@@ -738,7 +738,7 @@
                 "open_issues": 47,
                 "owner": "fritzsedlazeck",
                 "repo": "Sniffles",
-                "stars": 686,
+                "stars": 687,
                 "topics": [
                   "bioconda",
                   "bioinformatics",
@@ -767,7 +767,7 @@
                 "open_issues": 177,
                 "owner": "whatshap",
                 "repo": "whatshap",
-                "stars": 434,
+                "stars": 435,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -785,7 +785,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-11-18T05:45:51Z",
-                "open_issues": 11,
+                "open_issues": 9,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 399,
@@ -1024,7 +1024,7 @@
                         "open_issues": 100,
                         "owner": "nanoporetech",
                         "repo": "dorado",
-                        "stars": 887,
+                        "stars": 888,
                         "topics": [
                           "basecalling",
                           "genomics",
@@ -1506,10 +1506,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-17T19:21:52Z",
-                    "open_issues": 34,
+                    "open_issues": 35,
                     "owner": "mikolmogorov",
                     "repo": "Flye",
-                    "stars": 957,
+                    "stars": 958,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1527,7 +1527,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-11-11T21:23:48Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "marbl",
                     "repo": "verkko",
                     "stars": 423,
@@ -1597,7 +1597,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-05-20T13:47:58Z",
-                    "open_issues": 32,
+                    "open_issues": 33,
                     "owner": "nanoporetech",
                     "repo": "medaka",
                     "stars": 528,
@@ -1624,7 +1624,7 @@
                     "open_issues": 49,
                     "owner": "lbcb-sci",
                     "repo": "herro",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1688,8 +1688,8 @@
                     "id": 136390187,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-17T00:15:27Z",
-                    "open_issues": 142,
+                    "last_commit": "2026-11-19T00:47:34Z",
+                    "open_issues": 144,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
                     "stars": 259,
@@ -1709,8 +1709,8 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T17:36:44Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-11-18T23:06:23Z",
+                    "open_issues": 17,
                     "owner": "ablab",
                     "repo": "IsoQuant",
                     "stars": 247,
@@ -2132,8 +2132,8 @@
             "id": 743357700,
             "language": "Nextflow",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T06:36:23Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-19T03:53:02Z",
+            "open_issues": 4,
             "owner": "GoekeLab",
             "repo": "bambu-pipe",
             "stars": 26,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:37:34.567Z",
+    "last_updated": "2026-11-19T17:43:46.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
