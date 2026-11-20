@@ -219,7 +219,7 @@
                 "open_issues": 18,
                 "owner": "wdecoster",
                 "repo": "NanoPlot",
-                "stars": 566,
+                "stars": 565,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:01.694Z"
@@ -785,7 +785,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-11-18T05:45:51Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 399,
@@ -1509,7 +1509,7 @@
                     "open_issues": 35,
                     "owner": "mikolmogorov",
                     "repo": "Flye",
-                    "stars": 958,
+                    "stars": 959,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:26:01.694Z"
@@ -1547,7 +1547,7 @@
                     "id": 716892548,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-12T05:04:01Z",
+                    "last_commit": "2026-11-20T04:05:11Z",
                     "open_issues": 0,
                     "owner": "rrwick",
                     "repo": "Autocycler",
@@ -1689,7 +1689,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-19T00:47:34Z",
-                    "open_issues": 144,
+                    "open_issues": 148,
                     "owner": "BrooksLabUCSC",
                     "repo": "flair",
                     "stars": 259,
@@ -1709,7 +1709,7 @@
                     "id": 256025879,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T23:06:23Z",
+                    "last_commit": "2026-11-20T16:40:21Z",
                     "open_issues": 17,
                     "owner": "ablab",
                     "repo": "IsoQuant",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:43:46.628Z",
+    "last_updated": "2026-11-20T17:21:14.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
