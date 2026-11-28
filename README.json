@@ -784,8 +784,8 @@
                 "id": 352969947,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-26T16:14:49Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-28T09:18:00Z",
+                "open_issues": 7,
                 "owner": "HKU-BAL",
                 "repo": "Clair3",
                 "stars": 402,
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T18:30:07.033Z",
+    "last_updated": "2026-11-28T17:12:34.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome nanopore analysis tools.",
